@@ -1,0 +1,919 @@
+product_name,product_category_tree,retail_price,discounted_price,product_rating,overall_rating,brand,is_FK_Advantage_product,Stock_Level,Quantity,Rarity,Rarity_Encoded,Category_Encoded,Brand_Encoded
+Ladela Bellies,"[""Footwear >> Women's Footwear >> Ballerinas >> Ladela Bellies""]",1724.0,950.0,5.0,5.0,Ladela,0,107,27,Low,0,239,177
+Roadster Men's Zipper Solid Cardigan,"[""Clothing >> Men's Clothing >> Winter & Seasonal Wear >> Cardigans >> Roadster Cardigans >> Roadster Men's Zipper Solid Cardigan""]",1399.0,699.0,3.6,3.6,Roadster,0,184,73,High,2,66,279
+Roadster Skinny Fit Fit Men's Jeans,"[""Clothing >> Men's Clothing >> Jeans >> Roadster Jeans""]",2499.0,1249.0,3.0,3.0,Skinny Fit,1,97,26,High,2,45,302
+Pure Source Psi-As-Hanggnrlx Relaxing Liquid Air Freshener,"[""Home Decor & Festive Needs >> Candles & Fragrances >> Home Fragrances >> Aroma Oil & Diffuser Sets >> Pure Source Aroma Oil & Diffuser Sets""]",1250.0,375.0,5.0,5.0,Pure Source,0,19,47,Low,0,253,257
+Clara Certified Katela 3 cts or 3.25 ratti 4 Prongs Sterling Silver Amethyst Ring,"[""Jewellery >> Rings""]",3530.0,1570.0,4.0,4.0,Clara,0,111,86,High,2,294,63
+Nishtaa Yellow Gold 22 K Ring,"[""Jewellery >> Rings""]",7810.0,7420.0,5.0,5.0,Nishtaa,0,76,56,Low,0,294,226
+"Imported Banknote Tester, ball pen Permanent Alcohol Dye Base Marker","[""Pens & Stationery >> Office Supplies >> Sketch & Paint Markers >> Highlighter Pens >> Imported Highlighter Pens >> Imported Banknote Tester, ball pen Permanent Alc...""]",800.0,280.0,5.0,5.0,Imported,0,193,94,High,2,365,146
+Autofurnish Car Cover For Santro Xing,"[""Automotive >> Accessories & Spare parts >> Car & Bike Care >> Car & Bike Covers >> Car Body Covers >> Autofurnish Car Cover For Santro Xing""]",1530.0,437.0,2.4,2.4,Autofurnish,0,25,63,Low,0,1,24
+INDIANO Loafers,"[""Footwear >> Women's Footwear >> Casual Shoes >> Loafers >> INDIANO Loafers""]",1199.0,649.0,5.0,5.0,INDIANO,0,107,48,Medium,1,240,143
+Rainfun Car Cover For 800,"[""Automotive >> Accessories & Spare parts >> Car & Bike Care >> Car & Bike Covers >> Car Body Covers >> Rainfun Car Cover For 800 (Without Mirror Pockets)""]",1799.0,599.0,3.3,3.3,Rainfun,0,126,61,High,2,2,265
+Adidas Solid Men's Track Top,"[""Clothing >> Men's Clothing >> Sports Wear >> Track Tops >> Adidas Track Tops >> Adidas Solid Men's Track Top""]",2999.0,1949.0,1.0,1.0,Adidas,1,79,81,High,2,62,6
+Prime Printed 6 Seater Table Cover,"[""Home Furnishing >> Kitchen & Dining Linen >> Table Covers >> Prime Printed 6 Seater Table Cover (Multicolor, ...""]",1800.0,849.0,5.0,5.0,Prime,0,92,26,High,2,280,252
+Prime Printed 8 Seater Table Cover,"[""Home Furnishing >> Kitchen & Dining Linen >> Table Covers >> Prime Printed 8 Seater Table Cover (Multicolor, ...""]",2000.0,899.0,5.0,5.0,Prime,0,121,36,High,2,281,252
+Speedo Men's Swimsuit,"[""Clothing >> Men's Clothing >> Sports Wear >> Swimsuit & Swimwear >> Speedo Swimsuit & Swimwear >> Speedo Men's Swimsuit""]",699.0,699.0,4.0,4.0,Speedo,1,104,1,Medium,1,61,314
+Spangel Fashion Audi Style Alloy Mangalsutra,"[""Jewellery >> Mangalsutras & Tanmaniyas >> Spangel Fashion Audi Style Alloy Mangalsutra""]",1599.0,549.0,5.0,5.0,Spangel Fashion,0,108,8,High,2,290,312
+Mee Mee Women's Maternity Panty,"[""Clothing >> Women's Clothing >> Maternity Wear >> Lingerie & Sleepwear >> Panties >> Mee Mee Panties >> Mee Mee Women's Maternity Panty (Pack of 2)""]",358.0,358.0,1.0,1.0,Mee Mee,0,156,99,Medium,1,111,203
+knp enterprise Audi Style Alloy Mangalsutra,"[""Jewellery >> Mangalsutras & Tanmaniyas >> knp enterprise Audi Style Alloy Mangalsutra""]",1599.0,549.0,5.0,5.0,knp enterprise,0,135,52,Medium,1,291,393
+SR Crafts Showpiece  -  15.24 cm,"[""Home Decor & Festive Needs >> Table Decor & Handicrafts >> Showpieces >> Human Figurines >> SR Crafts Human Figurines""]",1850.0,1399.0,5.0,5.0,SR Crafts,0,154,79,Medium,1,269,289
+Transcend MP 870 8 GB MP4 Player,"[""Computers >> Audio Players >> MP4 / Video MP3 Players >> Transcend MP4 / Video MP3 Players""]",4225.0,3450.0,3.8,3.8,Transcend,0,57,47,Medium,1,166,346
+Shop Rajasthan Abstract Single Dohar Multicolor,"[""Home Furnishing >> Bed Linen >> Blankets, Quilts & Dohars""]",1099.0,549.0,1.0,1.0,Shop Rajasthan,0,6,56,Low,0,278,299
+Perfect Women's Leggings,"[""Clothing >> Women's Clothing >> Ethnic Wear >> Ethnic Bottoms >> Leggings & Churidars >> Leggings & Jeggings >> Perfect Leggings & Jeggings >> Perfect Women's Leggings (Pack of 2)""]",998.0,598.0,5.0,5.0,Perfect,0,92,86,Low,0,69,244
+Vaishna Fashion Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vaishna Bras""]",210.0,94.0,3.0,3.0,Black,0,162,14,High,2,104,40
+Florentyne Padded Push-up Bra Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Florentyne Bras""]",850.0,399.0,5.0,5.0,Blue,0,42,90,Low,0,79,44
+Luxemburg Bandaeu Women's Tube Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Luxemburg Bras""]",999.0,349.0,4.0,4.0,Purple,0,134,28,Low,0,88,258
+Laceandme Super Comfort Bandeau Women's Tube Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Laceandme Bras""]",450.0,140.0,4.0,4.0,Black,0,196,87,High,2,85,40
+Ladyland Mybra Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",899.0,369.0,5.0,5.0,Red,0,192,78,High,2,86,268
+Secret Wish Cherry Print Navy Underwired Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Secret Wish Bras""]",1198.0,299.0,3.0,3.0,Navy,0,25,88,High,2,99,219
+Ladyland Dia Beige Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",1499.0,529.0,5.0,5.0,Beige,0,165,2,Low,0,86,32
+Peri Peri Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Peri Peri Bras""]",999.0,349.0,3.2,3.2,Multicolor,1,62,26,Low,0,93,210
+Madaam NonPadded Women's Tube Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Madaam Bras""]",367.0,127.0,1.0,1.0,Red,0,26,14,High,2,89,268
+Vivity Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,4.0,4.0,White,0,93,59,Medium,1,105,372
+Ladyland Daisy Pink Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",729.0,319.0,5.0,5.0,Pink,0,53,56,High,2,86,248
+Ladyland Liz Black Bra Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",1599.0,539.0,5.0,5.0,Black,0,63,7,Medium,1,86,40
+Ladyland Stellah Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",899.0,349.0,5.0,5.0,White,0,174,3,Medium,1,86,372
+Urbaano Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Urbaano Bras""]",390.0,189.0,5.0,5.0,Purple,0,192,23,High,2,103,258
+Oleva Women's Sports Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Oleva Bras""]",599.0,130.0,1.0,1.0,Light Brown,0,19,18,High,2,92,183
+Younky Fashion Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Younky Bras""]",1299.0,149.0,3.0,3.0,Black,0,194,38,High,2,107,40
+Luxemburg Women's Tube Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Luxemburg Bras""]",649.0,249.0,3.5,3.5,Purple,0,194,99,Low,0,88,258
+Ladyland Life Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",849.0,349.0,5.0,5.0,Blue,0,179,15,Medium,1,86,44
+Peri Peri Women's Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Peri Peri Bras""]",1099.0,384.0,3.7,3.7,Beige,1,194,64,Low,0,93,32
+Vivity Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,2.3,2.3,White,0,55,89,Low,0,105,372
+Tia by Ten on Ten Fashion Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Tia by Ten on Ten Bras""]",1199.0,259.0,5.0,5.0,Blue,1,112,28,High,2,101,44
+Grafion Comfortable Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Grafion Bras""]",499.0,129.0,5.0,5.0,Black,0,59,74,Low,0,81,40
+Vaishna Fashion Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vaishna Bras""]",230.0,99.0,5.0,5.0,White,0,68,39,High,2,104,372
+Floret Women's Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Floret Bras""]",189.0,179.0,2.0,2.0,MAGENTA,0,135,57,Medium,1,80,189
+Florentyne Padded Push-up Bra Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Florentyne Bras""]",850.0,399.0,5.0,5.0,Cream,0,55,17,High,2,79,72
+Vivity KFB-24 Women's Plunge Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,1.0,1.0,Blue,0,139,86,Low,0,105,44
+Urbaano Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Urbaano Bras""]",600.0,270.0,5.0,5.0,Red,0,25,90,Low,0,103,268
+Luxemburg Women's Tube Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Luxemburg Bras""]",649.0,249.0,2.0,2.0,Skin,0,77,44,High,2,88,301
+PrettySecrets Fashion Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> PrettySecrets Bras""]",899.0,899.0,1.0,1.0,Brown,1,171,25,High,2,95,52
+Peri Peri Women's Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Peri Peri Bras""]",1199.0,419.0,1.0,1.0,Red,1,22,17,Low,0,93,268
+Florentyne Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Florentyne Bras""]",850.0,399.0,5.0,5.0,Red,0,136,13,Medium,1,79,268
+Florentyne Padded Push-up Bra Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Florentyne Bras""]",850.0,399.0,5.0,5.0,Beige,0,93,84,Medium,1,79,32
+JSR Paris Beauty Pro Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> JSR Paris Beauty Bras""]",499.0,214.0,5.0,5.0,Black,0,64,25,High,2,84,40
+Vivity Women's Plunge Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,3.2,3.2,Brown,0,18,68,Medium,1,105,52
+Triumph Form & Beauty 30 W Women's Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Triumph Bras""]",899.0,899.0,5.0,5.0,Deep Lavender,1,13,10,Low,0,102,86
+Vivity Women's Plunge Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,5.0,5.0,Brown,0,94,67,High,2,105,52
+Grafion Comfortable Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Grafion Bras""]",499.0,79.0,2.0,2.0,Pink,0,57,18,Low,0,81,248
+Vivity Women's Plunge Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,5.0,5.0,Brown,0,134,86,Low,0,105,52
+Florentyne Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Florentyne Bras""]",850.0,399.0,5.0,5.0,Skin,0,88,34,Medium,1,79,301
+Hemali Pink Women's T-Shirt Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Hemali Bras""]",1800.0,550.0,4.0,4.0,Pink,0,96,8,High,2,82,248
+Vaishna Fashion Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vaishna Bras""]",630.0,259.0,5.0,5.0,White,0,115,40,High,2,104,372
+Tia by Ten on Ten Stripey Women's T-Shirt Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Tia by Ten on Ten Bras""]",1199.0,255.0,1.0,1.0,Grey,1,192,83,Medium,1,101,130
+Ladyland Comfy Beige Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",749.0,279.0,5.0,5.0,Beige,0,176,42,Low,0,86,32
+Luxemburg Strapless Bandaeu Women's Tube Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Luxemburg Bras""]",799.0,299.0,5.0,5.0,Purple,0,12,41,Low,0,88,258
+Ladyland Jenifer Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",799.0,349.0,5.0,5.0,Black,0,179,6,Low,0,86,40
+Ladyland Daisy Purple Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",729.0,249.0,5.0,5.0,Purple,0,39,52,Low,0,86,258
+Laceandme Super Comfort Women's Stick-on Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Laceandme Bras""]",1250.0,579.0,1.0,1.0,Beige,0,85,26,High,2,85,32
+Vivity Women's Plunge Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,3.5,3.5,White,0,168,64,High,2,105,372
+"PrettySecrets Women's T-Shirt, Push-up Bra","[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> PrettySecrets Bras""]",899.0,899.0,3.8,3.8,Red,0,54,98,Medium,1,95,268
+Urbaano Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Urbaano Bras""]",1170.0,429.0,3.7,3.7,Red,0,108,59,Medium,1,103,268
+Grafion by Grafion - Comfort Feel Women's Tube Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Grafion Bras""]",899.0,399.0,1.0,1.0,Black,0,136,56,High,2,81,40
+Leading Lady Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Leading Lady Bras""]",375.0,170.0,3.9,3.9,White,0,6,59,High,2,87,372
+S4S Comfortable Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> S4S Bras""]",499.0,122.0,5.0,5.0,Sky Blue,0,138,70,Low,0,97,304
+Luxemburg Bandaeu Women's Tube Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Luxemburg Bras""]",1299.0,499.0,4.0,4.0,Black,0,58,33,Low,0,88,40
+Luxemburg Women's Tube Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Luxemburg Bras""]",649.0,249.0,5.0,5.0,White,0,110,53,Medium,1,88,372
+Vivity Women's Plunge Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,4.0,4.0,White,0,8,22,High,2,105,372
+Luxemburg Red Black and Pink Color Women's Tube Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Luxemburg Bras""]",1299.0,499.0,3.0,3.0,Red,0,58,21,Medium,1,88,268
+Itsmuahlife by ItsMuahLife - Dazzle Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Itsmuahlife Bras""]",999.0,299.0,3.0,3.0,Pink,0,195,70,High,2,83,248
+Ladyland Cozy White Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",799.0,349.0,5.0,5.0,White,0,150,70,Low,0,86,372
+Tia by Ten on Ten Fashion Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Tia by Ten on Ten Bras""]",1199.0,270.0,5.0,5.0,Black,1,48,4,Medium,1,101,40
+Younky Women's Sports Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Younky Bras""]",999.0,199.0,1.0,1.0,Red,0,166,94,Medium,1,107,268
+JSR Paris Beauty Pro Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> JSR Paris Beauty Bras""]",499.0,214.0,3.5,3.5,Skin,0,194,75,High,2,84,301
+SK Dreams Fashion Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> SK Dreams Bras""]",799.0,333.0,5.0,5.0,Multicolor,0,18,62,Low,0,98,210
+Q-rious Dzire Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Q-rious Bras""]",309.0,125.0,5.0,5.0,Beige,0,99,62,Medium,1,96,32
+Wolfie LaceRed117 Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Wolfie Bras""]",1099.0,320.0,5.0,5.0,Red,0,52,94,Low,0,106,268
+Younky Women's Sports Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Younky Bras""]",999.0,199.0,4.0,4.0,Black,0,19,95,Medium,1,107,40
+Vivity Women's Plunge Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,5.0,5.0,Maroon,0,194,24,Low,0,105,199
+Wolfie Neonbrapeach101 Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Wolfie Bras""]",999.0,320.0,5.0,5.0,Pink,0,44,55,High,2,106,248
+Younky Non_Padded Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Younky Bras""]",999.0,349.0,4.0,4.0,Multicolor,0,86,9,Medium,1,107,210
+Tia by Ten on Ten Lacy Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Tia by Ten on Ten Bras""]",1199.0,255.0,1.0,1.0,Blue,1,115,3,Medium,1,101,44
+Tia by Ten on Ten Velvetina Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Tia by Ten on Ten Bras""]",1199.0,500.0,5.0,5.0,Dark Pink,1,57,31,Low,0,101,81
+Urbaano Bridal Bra Pack Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Urbaano Bras""]",1140.0,489.0,5.0,5.0,Purple,0,28,40,Low,0,103,258
+Ladyland Liz Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",799.0,339.0,5.0,5.0,Black,0,158,36,Medium,1,86,40
+Urbaano Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Urbaano Bras""]",900.0,399.0,5.0,5.0,Orange,0,192,24,High,2,103,235
+Oleva Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Oleva Bras""]",599.0,99.0,2.3,2.3,Black,0,128,95,Low,0,92,40
+PrettySecrets Fashion Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> PrettySecrets Bras""]",899.0,809.0,5.0,5.0,Pink,1,45,6,Low,0,95,248
+Magiq Zuhi Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Magiq Bras""]",650.0,250.0,1.0,1.0,Black,0,161,66,Low,0,90,40
+Oleva Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Oleva Bras""]",599.0,99.0,1.0,1.0,White,0,19,84,Medium,1,92,372
+Q-rious Dzire Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Q-rious Bras""]",309.0,125.0,5.0,5.0,Blue,0,49,92,Medium,1,96,44
+Florentyne Padded Push-up Bra Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Florentyne Bras""]",850.0,399.0,5.0,5.0,Black,0,69,75,Medium,1,79,40
+Hemali Green Women's T-Shirt Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Hemali Bras""]",1200.0,399.0,4.0,4.0,Green,0,93,4,Medium,1,82,128
+Vivity Women's Plunge Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,3.8,3.8,White,0,75,79,High,2,105,372
+Madaam NonPadded Women's Tube Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Madaam Bras""]",647.0,284.0,2.5,2.5,Multicolor,0,13,6,High,2,89,210
+Nutex by Insaler Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Nutex Bras""]",650.0,299.0,5.0,5.0,Pink,0,92,94,Medium,1,91,248
+Vivity Women's Plunge Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,1.0,1.0,Red,0,133,51,High,2,105,268
+Magiq Nice Merry Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Magiq Bras""]",280.0,120.0,5.0,5.0,Maroon,0,140,62,Low,0,90,199
+Ladyland Dia Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",749.0,299.0,5.0,5.0,Beige,0,67,57,Low,0,86,32
+Wolfie Polkadotturqoise105 Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Wolfie Bras""]",999.0,320.0,5.0,5.0,Turquise,0,143,66,Low,0,106,349
+Wolfie RibbonMaroon118 Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Wolfie Bras""]",1099.0,320.0,5.0,5.0,Maroon,0,85,79,Medium,1,106,199
+Tia by Ten on Ten Comforting Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Tia by Ten on Ten Bras""]",599.0,255.0,3.0,3.0,Orange,1,140,75,Low,0,101,235
+Ploomz Fashion Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ploomz Bras""]",650.0,299.0,1.0,1.0,Blue,0,167,8,High,2,94,44
+Vivity Women's Plunge Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,4.0,4.0,Dark Blue,0,167,26,Medium,1,105,80
+Ladyland BOBBY Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Ladyland Bras""]",749.0,299.0,5.0,5.0,Beige,0,37,51,High,2,86,32
+Tia by Ten on Ten Melange Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Tia by Ten on Ten Bras""]",1199.0,259.0,1.0,1.0,Grey Melange,1,127,45,Low,0,101,131
+Wolfie Neonbrablue103 Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Wolfie Bras""]",999.0,320.0,5.0,5.0,Blue,0,9,44,Low,0,106,44
+Wolfie Designred110 Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Wolfie Bras""]",999.0,320.0,5.0,5.0,Red,0,45,5,Low,0,106,268
+Wolfie Neonbrapink102 Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Wolfie Bras""]",999.0,320.0,5.0,5.0,Pink,0,32,70,Medium,1,106,248
+Oleva Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Oleva Bras""]",599.0,99.0,1.0,1.0,LightPink,0,139,26,High,2,92,184
+Peri Peri Women's Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Peri Peri Bras""]",1199.0,419.0,3.8,3.8,Red,1,76,68,Medium,1,93,268
+Oleva Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Oleva Bras""]",599.0,99.0,2.7,2.7,Blue,0,16,19,Medium,1,92,44
+Status Women's Minimizer Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Status Bras""]",500.0,225.0,4.0,4.0,Multicolor,0,166,84,Low,0,100,210
+Younky Fashion Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Younky Bras""]",999.0,149.0,1.0,1.0,Pink,0,37,97,Medium,1,107,248
+Floozy Its My Choice Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Floozy Bras""]",1299.0,279.0,5.0,5.0,Black,0,52,20,Medium,1,78,40
+Oleva Women's Sports Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Oleva Bras""]",599.0,130.0,1.0,1.0,Darkpink,0,155,12,Low,0,92,82
+Vaishna Fashion Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vaishna Bras""]",230.0,99.0,5.0,5.0,Beige,0,66,47,Medium,1,104,32
+Vivity Women's Plunge Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Vivity Bras""]",1000.0,299.0,4.0,4.0,Orange,0,41,1,Low,0,105,235
+JSR Paris Beauty Pro Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> JSR Paris Beauty Bras""]",499.0,214.0,3.5,3.5,Skin,0,103,90,Low,0,84,301
+Wolfie Pro Women's Push-up Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Wolfie Bras""]",999.0,320.0,5.0,5.0,Black,0,176,14,Low,0,106,40
+Younky Fashion Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Younky Bras""]",1299.0,149.0,1.0,1.0,Purple,0,108,64,Low,0,107,258
+SB RETAILS SB02 Flash,"[""Cameras & Accessories >> Camera Accessories >> Flashes >> SB RETAILS Flashes >> SB RETAILS SB02 Flash (White)""]",999.0,249.0,5.0,5.0,SB RETAILS,0,39,38,Medium,1,25,286
+Estilo sipper-3 450 ml Sipper,"[""Sports & Fitness >> Fitness Accessories >> Bottles & Shakers >> Estilo Bottles & Shakers >> Estilo sipper-3 450 ml Sipper (Pack of 3, Multic...""]",2099.0,628.0,1.0,1.0,Estilo,0,197,37,Low,0,372,109
+Speedo Monogram Allover Splashback Solid Girl's,"[""Clothing >> Kids' Clothing >> Girls Wear >> Sports Wear >> Swimsuits >> Speedo Swimsuits >> Speedo Monogram Allover Splashback Solid Girl's""]",1099.0,1099.0,1.0,1.0,Speedo,0,105,11,Low,0,41,314
+Omic Poto-Blue 1000 ml Sipper,"[""Kitchen & Dining >> Containers & Bottles >> Bottles & Sippers >> Sippers >> Omic Sippers >> Omic Poto-Blue 1000 ml Sipper (Pack of 1, Blue)""]",999.0,549.0,3.8,3.8,Omic,0,179,77,Medium,1,295,232
+Prachin Varaha Laxmi Sitting Showpiece  -  11 cm,"[""Home Decor & Festive Needs >> Table Decor & Handicrafts >> Showpieces >> Religious Idols >> Prachin Religious Idols""]",3690.0,2460.0,4.0,4.0,Prachin,0,135,3,Medium,1,271,250
+Hitway Lace Up,"[""Footwear >> Kids' & Infant Footwear >> For Boys >> School Shoes >> Hitway Lace Up""]",499.0,449.0,4.0,4.0,Hitway,0,5,33,High,2,227,138
+Bond Beatz Zipper With Excellent Sound Wired Headset,"[""Mobiles & Accessories >> Mobile Accessories >> Bluetooth Headphones (With Mic) >> Bond Beatz Bluetooth Headphones (With Mic) >> Bond Beatz Zipper With Excellent Sound Wired Hea...""]",2499.0,210.0,5.0,5.0,Bond Beatz,0,9,6,Medium,1,330,47
+Xerobic 75 cm Gym Ball,"[""Sports & Fitness >> Fitness Accessories >> Accessories >> Gym Balls >> Xerobic Gym Balls >> Xerobic 75 cm Gym Ball""]",1349.0,719.0,5.0,5.0,Xerobic,0,146,50,Medium,1,370,381
+Xerobic 85 cm Gym Ball,"[""Sports & Fitness >> Fitness Accessories >> Accessories >> Gym Balls >> Xerobic Gym Balls >> Xerobic 85 cm Gym Ball""]",1499.0,809.0,5.0,5.0,Xerobic,0,107,10,High,2,371,381
+Being Nawab 6 inch Glass Hookah,"[""Home Decor & Festive Needs >> Table Decor & Handicrafts >> Table Decor >> Hookah & Hookah Flavours >> Hookah >> Being Nawab Hookah""]",499.0,195.0,3.0,3.0,Being Nawab,0,31,5,Medium,1,273,33
+Being Nawab 6 inch Glass Hookah,"[""Home Decor & Festive Needs >> Table Decor & Handicrafts >> Table Decor >> Hookah & Hookah Flavours >> Hookah >> Being Nawab Hookah""]",499.0,199.0,1.0,1.0,Being Nawab,0,141,23,Medium,1,273,33
+Filtre Roto-pizza Wheel Pizza Cutter,"[""Kitchen & Dining >> Kitchen Tools >> Kitchen Implements >> Pizza Cutters >> Filtre Pizza Cutters""]",399.0,289.0,4.0,4.0,Filtre,0,19,10,Medium,1,318,118
+3a Autocare Rubber Mat Car Mat Suzuki New Swift,"[""Automotive >> Car Accessories >> Car Interior >> Car Mats""]",1259.0,474.0,4.0,4.0,3a Autocare,0,94,44,Medium,1,9,0
+Purpledip Showpiece  -  12 cm,"[""Home Decor & Festive Needs >> Showpieces >> Purpledip Showpieces""]",1250.0,638.0,4.5,4.5,Purpledip,0,46,2,High,2,262,259
+"Voylla Metal, Alloy Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",379.0,189.0,5.0,5.0,Voylla,0,128,13,Medium,1,292,368
+"UpTown Metal, Alloy Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",399.0,235.0,1.0,1.0,UpTown,0,183,40,Medium,1,292,355
+Voylla Precious Simplicity Plain Sterling Silver Chain,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",599.0,309.0,4.0,4.0,Voylla,0,67,2,High,2,292,368
+"Vinnis Pretty Please Metal, Acrylic, Alloy Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",499.0,325.0,5.0,5.0,Vinnis,0,100,84,Low,0,292,365
+VR Designers Acrylic Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",500.0,200.0,1.0,1.0,VR Designers,0,56,65,High,2,292,359
+RoyalsCart KTH505 Showpiece  -  33 cm,"[""Home Decor & Festive Needs >> Showpieces >> Ethnic >> RoyalsCart Ethnic""]",4725.0,2499.0,5.0,5.0,RoyalsCart,0,100,63,Low,0,259,283
+"Vinnis Alloy, Acrylic Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",399.0,199.0,3.2,3.2,Vinnis,0,136,73,High,2,292,365
+Apex Rolling Pizza Cutter,"[""Kitchen & Dining >> Kitchen Tools >> Kitchen Implements >> Pizza Cutters >> Apex Pizza Cutters""]",199.0,69.0,4.0,4.0,Apex,0,155,17,High,2,317,18
+"Vinnis Pretty Please Metal, Acrylic, Alloy Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",499.0,299.0,2.5,2.5,Vinnis,0,147,9,Medium,1,292,365
+Womens Trendz Half Jhaler Panadi Thushi Crystal Yellow Gold Plated Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",1980.0,470.0,5.0,5.0,Womens Trendz,1,175,75,Low,0,292,377
+Jhondeal.com Wheel Pizza Cutter,"[""Kitchen & Dining >> Kitchen Tools >> Kitchen Implements >> Pizza Cutters >> Jhondeal.com Pizza Cutters""]",199.0,149.0,4.0,4.0,Jhondeal.com,0,33,15,Medium,1,320,163
+"Village Handicrafts Aluminum, Ceramic Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",315.0,315.0,5.0,5.0,Village Handicrafts,0,40,24,Low,0,292,363
+"Vinnis Alloy, Acrylic Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",399.0,299.0,4.7,4.7,Vinnis,0,17,38,High,2,292,365
+Zakaah Jewels Sterling Silver Plated Stone Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",999.0,499.0,5.0,5.0,Zakaah Jewels,0,164,35,High,2,292,385
+"Vinnis Pretty Please Metal, Acrylic, Alloy Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",499.0,245.0,5.0,5.0,Vinnis,0,75,94,Low,0,292,365
+Hommate Wheel Pizza Cutter,"[""Kitchen & Dining >> Kitchen Tools >> Kitchen Implements >> Pizza Cutters >> Hommate Pizza Cutters""]",499.0,299.0,5.0,5.0,Hommate,0,191,95,Medium,1,319,141
+"UpTown Metal, Alloy Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",399.0,250.0,3.0,3.0,UpTown,0,90,49,Medium,1,292,355
+Aeoss Portable Car Air Vent Mount For Mobiles Phones Black,"[""Automotive >> Accessories & Spare parts >> Car Electronics & Accessories >> Car Mobile Accessories >> Car Mobile Holders""]",499.0,224.0,4.0,4.0,Aeoss,0,32,69,Medium,1,5,7
+"Voylla Metal, Alloy Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",490.0,400.0,5.0,5.0,Voylla,0,70,62,Medium,1,292,368
+Ndura Tawa 28 cm diameter,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Ndura Woks & Kadhais""]",795.0,469.0,4.0,4.0,Ndura,0,174,60,High,2,307,220
+CookAid Stainless Steel with Lid Kadhai 1.2 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> CookAid Woks & Kadhais""]",759.0,759.0,2.0,2.0,CookAid,1,49,50,High,2,302,70
+Tosiba Kadhai 500 ML,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Tosiba Woks & Kadhais""]",500.0,310.0,5.0,5.0,Tosiba,0,66,78,High,2,311,342
+Gear X Sports Mount 2,"[""Automotive >> Accessories & Spare parts >> Car Electronics & Accessories >> Car Mobile Accessories >> Car Mobile Holders""]",1299.0,950.0,4.1,4.1,Gear X,0,189,75,High,2,5,123
+Hawkins Futura Hard Anodized Deep-Fry Pan 7.5 L 360 mm Kadhai 7.5 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Hawkins Woks & Kadhais""]",2650.0,2350.0,5.0,5.0,Hawkins,0,138,9,High,2,304,135
+Pigeon Gravy Premium with Lid Kadhai 6 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Pigeon Woks & Kadhais""]",1333.0,1333.0,4.4,4.4,Pigeon,0,32,34,Medium,1,309,246
+Ambitione Car Holder,"[""Automotive >> Accessories & Spare parts >> Car Electronics & Accessories >> Car Mobile Accessories >> Car Mobile Holders""]",599.0,175.0,5.0,5.0,Ambitione,0,32,76,Medium,1,5,16
+Bestech Kadhai 4 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Bestech Woks & Kadhais""]",1225.0,980.0,1.0,1.0,Bestech,0,112,99,Medium,1,300,37
+Sygtech Windshield Car Cradle Mount Phone Holder For Samsung S5,"[""Automotive >> Accessories & Spare parts >> Car Electronics & Accessories >> Car Mobile Accessories >> Car Mobile Holders""]",599.0,399.0,4.3,4.3,Sygtech,0,48,35,Medium,1,5,330
+Trinketbag Red Tie Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",499.0,349.0,5.0,5.0,Trinketbag,0,88,1,High,2,292,348
+Villcart Brass Bail Gadi Showpiece  -  5.5 cm,"[""Home Decor & Festive Needs >> Showpieces >> Villcart Showpieces""]",680.0,680.0,3.3,3.3,Villcart,0,34,40,High,2,266,364
+Swethamber Arts brass musical lady set of 4 statue Showpiece  -  7 cm,"[""Home Decor & Festive Needs >> Showpieces >> Ethnic >> Swethamber Arts Ethnic""]",3500.0,3300.0,5.0,5.0,Swethamber Arts,0,194,64,High,2,260,328
+Vtc Thumb Up Mobile Stand (Pink),"[""Automotive >> Accessories & Spare parts >> Car Electronics & Accessories >> Car Mobile Accessories >> Car Mobile Holders""]",499.0,89.0,1.0,1.0,Vtc,0,79,22,Low,0,5,369
+CookAid Stainless Steel with Lid Kadhai 1.2 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> CookAid Woks & Kadhais""]",759.0,759.0,5.0,5.0,CookAid,1,132,60,Medium,1,302,70
+Disney Cars Customs Traditional Pinata,"[""Toys & School Supplies >> Party Supplies >> Balloons & Decoration >> Pinatas >> Disney Pinatas""]",175.0,175.0,3.4,3.4,Disney,1,96,64,Medium,1,388,94
+Aeoss Bike Phone Support Mobile holder,"[""Automotive >> Accessories & Spare parts >> Car Electronics & Accessories >> Car Mobile Accessories >> Car Mobile Holders""]",499.0,324.0,4.6,4.6,Aeoss,1,194,93,High,2,5,7
+Leo Natura Paniarakkal 7 Hole Kadhai NA L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Leo Natura Woks & Kadhais""]",780.0,649.0,5.0,5.0,Leo Natura,0,133,72,Medium,1,306,181
+Dailyware Kadhai 1.5 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Dailyware Woks & Kadhais""]",689.0,589.0,2.0,2.0,Dailyware,0,125,11,Medium,1,303,78
+Peach 3mm Premium Green Pan Kadhai 2.5 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Peach Woks & Kadhais""]",999.0,399.0,5.0,5.0,Peach,0,31,14,High,2,308,240
+Chefkraft Tri Ply Kadhai 3.2 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Chefkraft Woks & Kadhais""]",1245.0,934.0,5.0,5.0,Chefkraft,0,194,60,Low,0,301,60
+"UpTown Metal, Alloy Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",660.0,430.0,1.0,1.0,UpTown,0,125,30,Low,0,292,355
+Alda Wok Glass Lid Kadhai,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Alda Woks & Kadhais""]",1790.0,1350.0,5.0,5.0,Alda,0,120,35,Low,0,299,13
+Voylla Cubic Zirconia Fabric Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",499.0,339.0,1.0,1.0,Voylla,0,7,85,High,2,292,368
+Pigeon Triply Kadhai 2 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Pigeon Woks & Kadhais""]",895.0,625.0,4.0,4.0,Pigeon,0,107,37,Medium,1,309,246
+The Crafts House Showpiece  -  6.5 cm,"[""Home Decor & Festive Needs >> Showpieces >> The Crafts House Showpieces""]",2000.0,1499.0,4.0,4.0,The Crafts House,0,159,5,High,2,265,338
+Jaipan KD2.5 Kadhai 2.5 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Jaipan Woks & Kadhais""]",690.0,499.0,4.3,4.3,Jaipan,0,141,83,High,2,305,157
+Urthn Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",599.0,299.0,3.0,3.0,Urthn,0,66,78,Medium,1,292,357
+"Retina 1 Mobile Holder, 1 Car Charger, 1 USB Cable Combo","[""Automotive >> Accessories & Spare parts >> Automotive Combo""]",249.0,199.0,2.4,2.4,Retina,1,169,26,Low,0,0,275
+Village Handicrafts Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",378.0,378.0,4.2,4.2,Village Handicrafts,0,55,62,Low,0,292,363
+United Kadhai NA L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> United Woks & Kadhais""]",1525.0,999.0,5.0,5.0,United,0,176,4,High,2,312,353
+VR Designers Glass Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",700.0,190.0,4.0,4.0,VR Designers,0,156,89,Low,0,292,359
+Total Agency Car Mobile Stand Holder Mount,"[""Automotive >> Accessories & Spare parts >> Car Electronics & Accessories >> Car Mobile Accessories >> Car Mobile Holders""]",499.0,249.0,5.0,5.0,Total Agency,0,63,42,High,2,5,343
+"Vinnis Style Diva Metal, Acrylic, Alloy Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",699.0,450.0,4.0,4.0,Vinnis,0,122,89,High,2,292,365
+3a Autocare 3D MAT Car Mat Suzuki New Swift,"[""Automotive >> Accessories & Spare parts >> Car Interior & Exterior >> Car Interior >> Car Mats""]",2100.0,1350.0,5.0,5.0,3a Autocare,0,164,18,Medium,1,6,0
+Imported Long Lazy Mobile Holder Stand,"[""Automotive >> Accessories & Spare parts >> Car Electronics & Accessories >> Car Mobile Accessories >> Car Mobile Holders""]",699.0,300.0,3.4,3.4,Imported,0,100,40,Medium,1,5,146
+CookAid Stainless Steel with Lid Kadhai 1.2 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> CookAid Woks & Kadhais""]",759.0,759.0,3.0,3.0,CookAid,1,184,72,Medium,1,302,70
+FLY Mini Clip Mobile Holder,"[""Automotive >> Accessories & Spare parts >> Car Electronics & Accessories >> Car Mobile Accessories >> Car Mobile Holders""]",429.0,249.0,3.6,3.6,FLY,0,117,39,High,2,5,112
+Woodino Handicrafts Showpiece  -  6.5 cm,"[""Home Decor & Festive Needs >> Showpieces >> Woodino Handicrafts Showpieces""]",749.0,399.0,5.0,5.0,Woodino Handicrafts,0,66,14,Medium,1,267,378
+R S Jewels Handmade Decoretive Designs Iron Pot Vase Showpiece  -  76 cm,"[""Home Decor & Festive Needs >> Showpieces >> R S Jewels Showpieces""]",1300.0,780.0,5.0,5.0,R S Jewels,0,190,32,Low,0,263,261
+Fly Universal Mobile Holder Crystal Edition For Car Windshield,"[""Automotive >> Accessories & Spare parts >> Car Electronics & Accessories >> Car Mobile Accessories >> Car Mobile Holders""]",599.0,415.0,2.4,2.4,Fly,0,56,51,Low,0,5,121
+Urdiva Fashions Metal Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",499.0,199.0,5.0,5.0,Urdiva Fashions,0,16,38,High,2,292,356
+Bracketron Tour Window Hip Kicker,"[""Automotive >> Accessories & Spare parts >> Car Electronics & Accessories >> Car Mobile Accessories >> Car Mobile Holders""]",1650.0,199.0,4.0,4.0,Bracketron,0,43,97,High,2,5,49
+Mom Italy Wheel Pizza Cutter,"[""Kitchen & Dining >> Kitchen Tools >> Kitchen Implements >> Pizza Cutters >> Mom Italy Pizza Cutters""]",169.0,169.0,3.7,3.7,Mom Italy,0,134,23,Medium,1,321,207
+VR Designers Metal Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",500.0,200.0,1.5,1.5,VR Designers,0,135,63,High,2,292,359
+Hawkins Futura Hard Anodized Kadhai 2.5 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Hawkins Woks & Kadhais""]",1235.0,1150.0,4.0,4.0,Hawkins,0,117,15,High,2,304,135
+Urthn Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",599.0,299.0,2.0,2.0,Urthn,0,105,97,Low,0,292,357
+Voylla Yellow Gold Plated Fabric Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",490.0,446.0,1.0,1.0,Voylla,0,117,25,Low,0,292,368
+Suruchi Kadhai 1 L,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Woks & Kadhais >> Suruchi Woks & Kadhais""]",490.0,299.0,5.0,5.0,Suruchi,0,188,17,Medium,1,310,324
+Funku Fashion Women Heels,"[""Footwear >> Women's Footwear >> Heels >> Funku Fashion Women Heels""]",2199.0,1199.0,5.0,5.0,Funku Fashion,0,85,97,High,2,242,122
+Funku Fashion Women Heels,"[""Footwear >> Women's Footwear >> Heels >> Funku Fashion Women Heels""]",2199.0,1199.0,5.0,5.0,Funku Fashion,0,191,66,High,2,242,122
+Being Trendy Quit-X eGo-Twist CE 5 Automatic Electronic Cigarette,"[""Health & Personal Care Appliances >> Personal Care Appliances >> Vaping Devices >> E-Cigarettes >> Being Trendy Quit-X eGo-Twist CE 5 Automatic Ele...""]",2999.0,599.0,2.0,2.0,Being Trendy,0,117,78,Low,0,248,34
+Hangrr Premium Single Breasted Solid Men's Suit,"[""Clothing >> Men's Clothing >> Suits & Blazers >> Suits >> Hangrr Suits >> Hangrr Premium Single Breasted Solid Men's Suit""]",15999.0,7883.0,3.7,3.7,Hangrr,0,6,53,High,2,65,134
+Brahaan BLUE TAG Single Breasted Solid Men's Suit,"[""Clothing >> Men's Clothing >> Suits & Blazers >> Suits >> Brahaan BLUE TAG Suits >> Brahaan BLUE TAG Single Breasted Solid Men's Suit""]",8995.0,7196.0,5.0,5.0,Brahaan BLUE TAG,0,134,51,Low,0,64,50
+Desert Eshop Real Antique Brass Royal 3 Minute Sand Timer 281 Showpiece  -  7 cm,"[""Home Decor & Festive Needs >> Showpieces >> Ethnic >> Desert Eshop Ethnic""]",699.0,485.0,5.0,5.0,Desert Eshop,0,58,39,Medium,1,257,87
+Elephant 9.84 inch Lid,"[""Kitchen & Dining >> Cookware >> Lids >> Elephant Lids""]",500.0,450.0,4.0,4.0,Elephant,0,91,51,Low,0,297,105
+Nihar Pirangi Bomber Showpiece  -  10 cm,"[""Home Decor & Festive Needs >> Showpieces >> Ethnic >> Nihar Ethnic""]",799.0,194.0,5.0,5.0,Nihar,0,133,70,High,2,258,224
+Intel 3.2 GHz LGA 1150 i5-4460 (BX80646I54460) Processor,"[""Computers >> Computer Components >> Processors >> Intel Processors""]",18000.0,15485.0,3.3,3.3,Intel,0,151,6,Medium,1,167,150
+"Diovanni Fashionable Monochrome Metal, Alloy Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",600.0,269.0,3.6,3.6,Diovanni,1,130,67,Low,0,292,93
+Bagru Crafts Wall hanging of Lord Ganesha Showpiece  -  21.69 cm,"[""Home Decor & Festive Needs >> Showpieces >> Ethnic >> Bagru Crafts Ethnic""]",999.0,549.0,5.0,5.0,Bagru Crafts,0,134,7,Low,0,256,28
+Intel 1.8 GHz LGA 1155 Celeron G460 Processor,"[""Computers >> Computer Components >> Processors >> Intel Processors""]",3500.0,2475.0,4.3,4.3,Intel,0,57,51,Medium,1,167,150
+Hi Look Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",195.0,165.0,1.0,1.0,Hi Look,0,176,72,Medium,1,292,137
+Giftwallas Crystal Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",399.0,239.0,4.0,4.0,Giftwallas,0,164,42,Low,0,292,125
+Leoxsys LEO-150N-3G-AD,"[""Computers >> Network Components >> Routers >> Leoxsys Routers""]",2990.0,1990.0,3.0,3.0,Leoxsys,0,164,64,High,2,208,182
+Fayon Golden Tassel Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",1150.0,375.0,4.0,4.0,Fayon,0,72,15,Low,0,292,117
+Netgear R6220 AC1200 Dual Band Gigabit Wi-Fi Router,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",7000.0,4250.0,5.0,5.0,Netgear,1,187,29,Medium,1,210,221
+Tenda 3G150B,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",3000.0,1773.0,3.0,3.0,Tenda,0,188,33,Low,0,217,337
+Hi Look Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",695.0,371.0,4.5,4.5,Hi Look,0,127,94,Medium,1,292,137
+Hi Look Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",299.0,195.0,3.0,3.0,Hi Look,0,149,27,Medium,1,292,137
+JDX Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",1099.0,375.0,5.0,5.0,JDX,0,42,36,High,2,292,155
+Intex W150D,"[""Computers >> Network Components >> Routers >> Intex Routers""]",2200.0,1350.0,5.0,5.0,Intex,0,28,29,Medium,1,206,151
+JDX Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",500.0,378.0,5.0,5.0,JDX,0,73,38,Medium,1,292,155
+Asus RT-N13U B1 Wireless N with All-in-One Printer Server Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",2900.0,2100.0,3.8,3.8,Asus,0,120,57,High,2,193,23
+Tenda 3G611R+,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",2500.0,1300.0,3.7,3.7,Tenda,0,102,97,Medium,1,217,337
+GoldNera Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",999.0,299.0,2.8,2.8,GoldNera,0,143,27,High,2,292,127
+Asus RT-N14UHP High Power Wireless-N300 3-in-1 Router/ AP/ Range Extender,"[""Computers >> Network Components >> Routers >> Asus Routers""]",10000.0,5580.0,3.6,3.6,Asus,1,148,55,High,2,193,23
+ETTI ESJ69_MULTI Glass Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",1000.0,199.0,5.0,5.0,ETTI,0,101,33,Medium,1,292,100
+TP-LINK TL-MR3420 3G/4G Wireless N Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",3450.0,1999.0,4.2,4.2,TP-LINK,0,128,68,Medium,1,214,333
+Belkin Play Max Modem Router,"[""Computers >> Network Components >> Routers >> Belkin Routers""]",12499.0,12499.0,2.9,2.9,Belkin,1,191,86,Low,0,195,35
+Asus Wireless AC2400 Dual-band Gigabit Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",29990.0,21290.0,4.3,4.3,Asus,0,74,66,High,2,193,23
+Netgear WNDR3700 N600 Dual Band Wireless Gigabit Router,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",9000.0,6300.0,4.0,4.0,Netgear,0,97,10,Low,0,210,221
+Tenda TE-4G302,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",3500.0,3399.0,3.6,3.6,Tenda,0,7,5,Medium,1,217,337
+Huawei WS331c -300 Mbps Wireless Range Extender,"[""Computers >> Network Components >> Routers >> Huawei Routers""]",2250.0,1635.0,3.5,3.5,Huawei,1,152,74,Low,0,203,142
+TRENDnet TEW-752DRU,"[""Computers >> Network Components >> Routers >> TRENDnet Routers""]",8999.0,5199.0,5.0,5.0,TRENDnet,0,191,97,High,2,216,335
+Netgear WN2500RP Universal Dual Band Wi-Fi Range Extender,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",10800.0,7550.0,3.5,3.5,Netgear,0,168,38,Low,0,210,221
+Tenda W308R,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",2999.0,1749.0,5.0,5.0,Tenda,0,151,13,High,2,217,337
+Edimax BR-6428NC,"[""Computers >> Network Components >> Routers >> Edimax Routers""]",3330.0,2000.0,2.3,2.3,Edimax,0,94,31,Medium,1,202,103
+GoldNera Brass Chain,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",987.0,299.0,2.0,2.0,GoldNera,1,199,47,Medium,1,292,127
+GoldNera Brass Chain,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",1017.0,299.0,4.1,4.1,GoldNera,0,151,88,High,2,292,127
+Zyxel PLA4231 500 Mbps Powerline Wireless N Extender (Single Pack),"[""Computers >> Network Components >> Routers >> Zyxel Routers""]",8646.0,4800.0,5.0,5.0,Zyxel,0,152,52,Medium,1,222,389
+Asus DSL-AC68U Dual Band Wireless AC1900 VDSL / ADSL Modem Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",22000.0,17973.0,4.5,4.5,Asus,1,100,56,Medium,1,193,23
+iBall Wireless N Router,"[""Computers >> Network Components >> Routers >> iBall Routers""]",1449.0,969.0,4.2,4.2,iBall,1,56,15,Medium,1,223,391
+D-Link DIR - 816L,"[""Computers >> Network Components >> Routers >> D-Link Routers""]",4500.0,4000.0,3.2,3.2,D-Link,0,165,29,Medium,1,200,76
+Asus RT-AC68U Dual-band Wireless-AC1900 Gigabit Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",25000.0,13390.0,4.3,4.3,Asus,0,172,8,High,2,193,23
+"Tenda F3 300mbps Wireless Router, With 3 Fixed Antenna, 3lan, 1wan Port","[""Computers >> Network Components >> Routers >> Tenda Routers""]",3500.0,1899.0,5.0,5.0,Tenda,0,132,5,Low,0,217,337
+TP-LINK TL-WR941ND 300Mbps Wireless N Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",3499.0,2525.0,4.2,4.2,TP-LINK,0,43,29,Low,0,214,333
+Asus RT-N12 LX 300Mbps Wireless Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",3950.0,1990.0,4.1,4.1,Asus,0,86,47,Medium,1,193,23
+TRENDnet N150 Wireless ADSL 2 Modem Router,"[""Computers >> Network Components >> Routers >> TRENDnet Routers""]",2200.0,1859.0,5.0,5.0,TRENDnet,0,108,68,Low,0,216,335
+Hi Look Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",695.0,295.0,5.0,5.0,Hi Look,0,133,76,Low,0,292,137
+Tenda A5,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",1999.0,1999.0,5.0,5.0,Tenda,0,15,45,Medium,1,217,337
+JDX Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",1299.0,380.0,5.0,5.0,JDX,0,189,2,Medium,1,292,155
+ETTI ESJ72_MULTI Glass Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",1200.0,250.0,5.0,5.0,ETTI,0,182,27,Low,0,292,100
+D-Link DIR-816 Wireless AC750 Dual Band Router,"[""Computers >> Network Components >> Routers >> D-Link Routers""]",4200.0,2059.0,4.0,4.0,D-Link,1,155,95,High,2,200,76
+Netis WF2412,"[""Computers >> Network Components >> Routers >> Netis Routers""]",1500.0,695.0,4.2,4.2,Netis,0,163,36,Medium,1,211,222
+D-Link DIR-810L,"[""Computers >> Network Components >> Routers >> D-Link Routers""]",4399.0,2499.0,3.8,3.8,D-Link,0,46,36,High,2,200,76
+iBall iB-W4GX150N 4G Wireless N Router,"[""Computers >> Network Components >> Routers >> iBall Routers""]",2499.0,1995.0,3.2,3.2,iBall,0,103,26,Low,0,223,391
+TP-Link TD-W8960N,"[""Computers >> Network Components >> Routers >> TP-Link Routers""]",2300.0,1649.0,5.0,5.0,TP-Link,0,11,43,Medium,1,215,334
+Fayon Red chic Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",1200.0,480.0,5.0,5.0,Fayon,0,148,27,High,2,292,117
+Netgear JNR3210 N300 Wireless Gigabit Router,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",3299.0,2498.0,4.2,4.2,Netgear,1,94,69,Medium,1,210,221
+D-Link DWR-111-3G Router with WAN Auto Failure,"[""Computers >> Network Components >> Routers >> D-Link Routers""]",2310.0,1025.0,4.2,4.2,D-Link,0,116,20,Low,0,200,76
+Edimax AR-7286WNA,"[""Computers >> Network Components >> Routers >> Edimax Routers""]",3699.0,1990.0,5.0,5.0,Edimax,0,64,11,High,2,202,103
+Belkin Share Modem (N) Router,"[""Computers >> Network Components >> Routers >> Belkin Routers""]",6249.0,6249.0,3.7,3.7,Belkin,1,117,74,Low,0,195,35
+FashBlush Forever New BlackBead Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",2999.0,199.0,2.3,2.3,FashBlush,0,6,38,Low,0,292,113
+Asus Wireless-N150 ADSL Modem Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",5000.0,5000.0,3.9,3.9,Asus,1,133,6,Medium,1,193,23
+Belkin Wireless Dual-Band Travel Router,"[""Computers >> Network Components >> Routers >> Belkin Routers""]",3699.0,2499.0,4.0,4.0,Belkin,0,52,72,High,2,195,35
+Asus RT-N12 D1 Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",4000.0,1600.0,4.2,4.2,Asus,0,144,23,Low,0,193,23
+Tenda TE-FH1202 Wireless High Power AC1200 Dual Band Gigabit WiFi Router,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",7500.0,4239.0,2.8,2.8,Tenda,0,41,47,Low,0,217,337
+Asus RT-N12C1 Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",2600.0,1875.0,3.8,3.8,Asus,0,164,90,High,2,193,23
+WD My Net N900 HD Dual-Band,"[""Computers >> Network Components >> Routers >> WD Routers""]",15999.0,12316.0,3.0,3.0,WD,1,13,46,Low,0,220,370
+Netgear WNR614 Wireless N300 Router,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",2250.0,1200.0,4.0,4.0,Netgear,1,103,12,Low,0,210,221
+Hi Look Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",695.0,395.0,5.0,5.0,Hi Look,0,151,90,High,2,292,137
+Apple AirPort Express Base Station Wireless Router,"[""Computers >> Network Components >> Routers >> Apple Routers""]",6800.0,6399.0,4.9,4.9,Apple,1,52,13,High,2,192,19
+TP-LINK TL-WA750RE,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",2499.0,1330.0,4.3,4.3,TP-LINK,1,135,62,High,2,214,333
+TP-LINK Archer C20i AC750 Wireless Dual Band Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",3199.0,2200.0,4.1,4.1,TP-LINK,0,152,82,High,2,214,333
+Hi Look Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",495.0,396.0,5.0,5.0,Hi Look,0,156,89,Medium,1,292,137
+Lava W520 3G Router,"[""Computers >> Network Components >> Routers >> Lava Routers""]",2999.0,1350.0,3.7,3.7,Lava,0,58,97,High,2,207,179
+Asus RT-N66U Dual-Band Wireless-N900 Gigabit Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",15500.0,10556.0,4.5,4.5,Asus,1,124,60,Medium,1,193,23
+TRENDnet N150 Wireless Router,"[""Computers >> Network Components >> Routers >> TRENDnet Routers""]",2599.0,1199.0,5.0,5.0,TRENDnet,1,165,43,Medium,1,216,335
+JDX Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",450.0,380.0,5.0,5.0,JDX,0,156,76,Medium,1,292,155
+TP-LINK TL-WR841HP 300 Mbps High Power Wireless N Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",3999.0,2599.0,2.9,2.9,TP-LINK,1,120,68,Low,0,214,333
+Belkin Basic (N150) Router,"[""Computers >> Network Components >> Routers >> Belkin Routers""]",2399.0,2399.0,4.0,4.0,Belkin,1,79,5,Medium,1,195,35
+Netis WF2419,"[""Computers >> Network Components >> Routers >> Netis Routers""]",1700.0,1250.0,1.0,1.0,Netis,0,117,37,Medium,1,211,222
+iBall iB-WRX300NP 300 Mbps Extreme High Power Wireless N Router,"[""Computers >> Network Components >> Routers >> iBall Routers""]",2799.0,1799.0,4.0,4.0,iBall,0,168,72,Low,0,223,391
+Tenda F303 Wireless N300 Easy Setup Router,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",3500.0,1315.0,3.3,3.3,Tenda,0,170,92,Low,0,217,337
+Comfast CF-WR500N,"[""Computers >> Network Components >> Routers >> Comfast Routers""]",1500.0,1390.0,5.0,5.0,Comfast,0,108,31,Low,0,197,69
+Huawei WS319 300 Mbps Wireless N Router,"[""Computers >> Network Components >> Routers >> Huawei Routers""]",1899.0,1395.0,2.3,2.3,Huawei,1,88,9,High,2,203,142
+TP-LINK TL-WR702N 150Mbps Wireless N Nano Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",1599.0,949.0,4.2,4.2,TP-LINK,0,116,51,Low,0,214,333
+JDX Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",620.0,299.0,4.8,4.8,JDX,0,103,29,Low,0,292,155
+iBall 150M eXtreme Wireless-N Router,"[""Computers >> Network Components >> Routers >> iBall Routers""]",1399.0,929.0,4.2,4.2,iBall,0,157,78,Medium,1,223,391
+Asus DSL-N10E Wireless-N150 ADSL Modem Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",3690.0,2000.0,4.2,4.2,Asus,0,97,40,Low,0,193,23
+JDX Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",599.0,299.0,5.0,5.0,JDX,0,150,41,High,2,292,155
+Linksys RE2000 Wireless Range Extender N300 Dual Band,"[""Computers >> Network Components >> Routers >> Linksys Routers""]",7999.0,5350.0,5.0,5.0,Linksys,1,132,86,Low,0,209,185
+Tenda A6,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",1800.0,1399.0,4.8,4.8,Tenda,0,114,11,High,2,217,337
+iBall 300M Wireless-N ADSL2+ 3G Router,"[""Computers >> Network Components >> Routers >> iBall Routers""]",2700.0,2050.0,4.4,4.4,iBall,0,86,23,Low,0,223,391
+TP-LINK TL-MR3220 3G/4G Wireless N Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",2899.0,1531.0,4.2,4.2,TP-LINK,0,198,1,Low,0,214,333
+Tenda TE-D820R,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",1400.0,799.0,5.0,5.0,Tenda,0,58,46,Low,0,217,337
+Tenda N60,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",7500.0,3600.0,5.0,5.0,Tenda,0,167,21,Low,0,217,337
+Hi Look Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",695.0,265.0,5.0,5.0,Hi Look,0,193,90,High,2,292,137
+JDX Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",450.0,299.0,5.0,5.0,JDX,0,173,36,High,2,292,155
+Onnet 3000OCURRO 3G Wifi Router,"[""Computers >> Network Components >> Routers >> Onnet Routers""]",2999.0,1850.0,5.0,5.0,Onnet,0,165,54,Medium,1,212,234
+ISUN ISN V01,"[""Computers >> Network Components >> Routers >> ISUN Routers""]",2250.0,1599.0,4.0,4.0,ISUN,0,72,87,High,2,204,144
+ETTI ESJ27_MULTI Crystal Glass Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",300.0,99.0,4.3,4.3,ETTI,0,37,57,Low,0,292,100
+Asus RT-N14U Wireless-N300 Cloud,"[""Computers >> Network Components >> Routers >> Asus Routers""]",6999.0,5600.0,4.2,4.2,Asus,0,146,1,Medium,1,193,23
+Indian Charm Glass Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",449.0,404.0,5.0,5.0,Indian Charm,0,25,63,Medium,1,292,147
+Lava W200 3G Router,"[""Computers >> Network Components >> Routers >> Lava Routers""]",2999.0,950.0,3.4,3.4,Lava,0,52,54,Medium,1,207,179
+Junk Glass Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",359.0,300.0,5.0,5.0,Junk,0,152,55,Low,0,292,166
+TP-LINK TL-WR841N 300Mbps Wireless N Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",2500.0,1118.0,4.2,4.2,TP-LINK,1,132,40,High,2,214,333
+Tenda FH330,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",3500.0,1705.0,4.0,4.0,Tenda,0,140,15,Low,0,217,337
+Hi Look Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",645.0,484.0,5.0,5.0,Hi Look,0,139,21,Medium,1,292,137
+D-Link DIR-605L Wireless N300 Cloud Router,"[""Computers >> Network Components >> Routers >> D-Link Routers""]",3500.0,1649.0,4.1,4.1,D-Link,0,199,47,Low,0,200,76
+Edimax BR-6228NS V2,"[""Computers >> Network Components >> Routers >> Edimax Routers""]",1999.0,890.0,4.5,4.5,Edimax,1,149,73,Low,0,202,103
+TP-Link Archer C20 AC750 Dual Band Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",5399.0,2150.0,4.4,4.4,TP-LINK,1,132,53,High,2,214,333
+Netgear N300 Wireless ADSL2+ Modem Router Mobile Broadband Edition (DGN2200M),"[""Computers >> Network Components >> Routers >> Netgear Routers""]",6400.0,5450.0,4.0,4.0,Netgear,0,37,9,High,2,210,221
+NETGEAR WNDR4000 N750 WIRELESS DUAL BAND GIGABIT Router,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",12900.0,9310.0,5.0,5.0,Netgear,1,180,74,Medium,1,210,221
+Tenda 3G300M,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",3000.0,1718.0,4.0,4.0,Tenda,0,191,52,Low,0,217,337
+Giftwallas Crystal Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",349.0,299.0,3.0,3.0,Giftwallas,0,119,57,Low,0,292,125
+Huawei WS322 -300 Mbps Mini Wireless Router Cum Repeater,"[""Computers >> Network Components >> Routers >> Huawei Routers""]",2790.0,1899.0,4.3,4.3,Huawei,1,123,26,High,2,203,142
+SMC WBR14S,"[""Computers >> Network Components >> Routers >> SMC Routers""]",1590.0,690.0,3.5,3.5,SMC,0,26,41,Low,0,213,288
+Netgear JWNR2010 N300 Wireless Router,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",2500.0,1367.0,3.9,3.9,Netgear,1,162,35,Low,0,210,221
+Informatix Acrylic Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",1299.0,399.0,1.0,1.0,Informatix,0,42,63,Low,0,292,149
+Belkin Dual-Band Wireless Range Extender,"[""Computers >> Network Components >> Routers >> Belkin Routers""]",6129.0,4399.0,3.4,3.4,Belkin,1,113,25,High,2,195,35
+Hi Look Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",495.0,371.0,1.0,1.0,Hi Look,0,55,90,Medium,1,292,137
+Huawei HG532D: ADSL2+ 300 Mbps Modem With Router,"[""Computers >> Network Components >> Routers >> Huawei Routers""]",2500.0,1790.0,4.0,4.0,Huawei,0,186,75,Medium,1,203,142
+Hi Look Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",245.0,215.0,5.0,5.0,Hi Look,0,12,38,Low,0,292,137
+Netgear AC2350 Nighthawk X4 Smart WiFi Router (R7500),"[""Computers >> Network Components >> Routers >> Netgear Routers""]",24040.0,14200.0,4.4,4.4,Netgear,0,31,2,Medium,1,210,221
+Vodafone R206 i,"[""Computers >> Network Components >> Routers >> Vodafone Routers""]",2999.0,2699.0,5.0,5.0,Vodafone,0,31,7,High,2,219,367
+"Aeoss 300Mbps Wireless -N Multifunction Mini Router Repeater LAN Ports, Wall Powered","[""Computers >> Network Components >> Routers >> Aeoss Routers""]",1999.0,1325.0,1.0,1.0,Aeoss,1,25,82,High,2,191,7
+TP-LINK N600 Wireless Dual Band,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",5555.0,4550.0,4.0,4.0,TP-LINK,0,34,91,Medium,1,214,333
+Netis WF2419 N300 Wireless Router,"[""Computers >> Network Components >> Routers >> Netis Routers""]",1499.0,1250.0,3.5,3.5,Netis,0,101,34,Medium,1,211,222
+ETTI ESJ86_MULTI Glass Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",1200.0,250.0,5.0,5.0,ETTI,0,32,91,Low,0,292,100
+Cubetek Airmobi iPlay2 Wifi Music Router,"[""Computers >> Network Components >> Routers >> Cubetek Routers""]",3990.0,2499.0,4.6,4.6,Cubetek,0,115,17,Medium,1,198,74
+Belkin Basic Surf (N300) Router,"[""Computers >> Network Components >> Routers >> Belkin Routers""]",3099.0,3099.0,3.6,3.6,Belkin,1,196,43,Low,0,195,35
+Asus EA-N66 Dual-Band Wireless-N900 Gigabit 3-in-1 AP/Wi-Fi Bridge/Ra,"[""Computers >> Network Components >> Routers >> Asus Routers""]",7105.0,6990.0,3.0,3.0,Asus,0,65,59,Low,0,193,23
+Legrand Legrand Myrius 673031 25A Motor Starter White 25 One Way Electrical Switch,"[""Home Improvement >> Electricals >> Switches & Accessories >> Switches & Dimmers""]",492.0,346.0,1.0,1.0,Legrand,0,52,51,High,2,284,180
+Netgear AC 750 Wi-Fi Range Extender,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",6570.0,5555.0,3.5,3.5,Netgear,0,151,54,High,2,210,221
+"Npplastics 52MM 0.45X DSLR Wide Angle Macro for Nikon, Canon Mechanical Lens Adapter","[""Cameras & Accessories >> Camera Accessories >> Lens Adapters >> Npplastics Lens Adapters""]",2000.0,1800.0,5.0,5.0,Npplastics,0,8,24,High,2,26,230
+iBall wr7011a,"[""Computers >> Network Components >> Routers >> iBall Routers""]",1999.0,1080.0,1.0,1.0,iBall,0,39,25,High,2,223,391
+Tenda N6,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",3999.0,3246.0,3.7,3.7,Tenda,0,196,71,Medium,1,217,337
+D-Link DAP-1320 Wireless Range Extender,"[""Computers >> Network Components >> Routers >> D-Link Routers""]",3500.0,2198.0,4.3,4.3,D-Link,1,53,52,High,2,200,76
+Iball WRA300N3GT,"[""Computers >> Network Components >> Routers >> Iball Routers""]",2599.0,1999.0,5.0,5.0,Iball,0,21,70,Medium,1,205,145
+Apple ME918HN/A,"[""Computers >> Network Components >> Routers >> Apple Routers""]",14200.0,14200.0,4.7,4.7,Apple,0,176,88,High,2,192,19
+Tenda TE-D151 N150 Wireless ADSL2+ Modem Router,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",2800.0,1105.0,4.8,4.8,Tenda,0,162,33,Medium,1,217,337
+Wi-Bridge APW40-01,"[""Computers >> Network Components >> Routers >> Wi-Bridge Routers""]",2399.0,600.0,4.1,4.1,Wi-Bridge,0,50,49,Low,0,221,373
+Netgear WN2000RPT Universal WiFi Range Extender,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",4420.0,2479.0,3.7,3.7,Netgear,0,121,29,Medium,1,210,221
+Tenda W268R,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",1500.0,1030.0,5.0,5.0,Tenda,0,10,63,Medium,1,217,337
+"Asus RT-N16 Multi-Functional Gigabit Wireless N with storage, Printer and media server Router","[""Computers >> Network Components >> Routers >> Asus Routers""]",9500.0,6500.0,4.0,4.0,Asus,0,103,22,High,2,193,23
+Tenda W150D,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",2500.0,999.0,3.7,3.7,Tenda,0,128,26,Medium,1,217,337
+Asus RT-N15U Wireless-N300 Gigabit Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",5500.0,5500.0,4.7,4.7,Asus,0,41,28,Low,0,193,23
+Toto Link F1 150 Mbps Wireless N SOHO Fiber Router,"[""Computers >> Network Components >> Routers >> Toto Link Routers""]",3999.0,1710.0,2.2,2.2,Toto Link,0,28,85,Low,0,218,345
+iZOTRON WR40003G 3G Pocket Router,"[""Computers >> Network Components >> Routers >> iZOTRON Routers""]",3300.0,1995.0,4.8,4.8,iZOTRON,0,97,49,High,2,224,392
+TP-LINK 4-Port Cable/DSL/TL-R460,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",1199.0,1199.0,3.0,3.0,TP-LINK,1,50,71,Low,0,214,333
+Belkin Play Max Router,"[""Computers >> Network Components >> Routers >> Belkin Routers""]",8199.0,8199.0,3.9,3.9,Belkin,1,185,81,Medium,1,195,35
+"Dress Villa Acrylic, Alloy Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",899.0,449.0,5.0,5.0,Dress Villa,0,99,84,Low,0,292,96
+Hi Look Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",395.0,265.0,4.5,4.5,Hi Look,0,103,49,High,2,292,137
+TP-LINK TL-WDR4300 N750 Wireless Dual Band Gigabit Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",9999.0,5300.0,3.5,3.5,TP-LINK,1,192,20,Medium,1,214,333
+Binatone WR1500N,"[""Computers >> Network Components >> Routers >> Binatone Routers""]",1995.0,895.0,1.0,1.0,Binatone,0,120,86,High,2,196,39
+D-Link DIR-505 All-in-one Mobile Companion Router,"[""Computers >> Network Components >> Routers >> D-Link Routers""]",2800.0,1340.0,3.9,3.9,D-Link,0,195,92,Medium,1,200,76
+"Indian Charm Glass, Metal Necklace","[""Jewellery >> Necklaces & Chains >> Necklaces""]",499.0,449.0,5.0,5.0,Indian Charm,0,164,63,Low,0,292,147
+Jewellerywale Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",2300.0,449.0,5.0,5.0,Jewellerywale,0,165,61,High,2,292,160
+Zyxel VMG1312-B10A VDSL2 Wireless N VDSL2 4-port Gateway with USB,"[""Computers >> Network Components >> Routers >> Zyxel Routers""]",7192.0,5700.0,4.0,4.0,Zyxel,0,71,49,High,2,222,389
+Netgear D3600 N600 Dual Band Gigabit Wi-Fi Modem Router,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",9600.0,6190.0,5.0,5.0,Netgear,1,132,71,Medium,1,210,221
+D-Link DSL-2520U,"[""Computers >> Network Components >> Routers >> D-Link Routers""]",1449.0,800.0,4.1,4.1,D-Link,0,22,1,High,2,200,76
+DressVilla Beads Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",1299.0,499.0,3.2,3.2,DressVilla,0,29,96,Medium,1,292,97
+TP-LINK 300 Mbps Universal WiFi,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",2999.0,1887.0,4.3,4.3,TP-LINK,0,58,13,Medium,1,214,333
+TP-LINK TD-W8970,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",6700.0,4850.0,3.0,3.0,TP-LINK,1,62,94,Medium,1,214,333
+TP-LINK TD-W8151N 150Mbps Wireless N ADSL2 Modem Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",1999.0,1414.0,4.3,4.3,TP-LINK,0,71,87,Medium,1,214,333
+JDX Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",599.0,299.0,4.9,4.9,JDX,0,108,51,Low,0,292,155
+Hi Look Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",895.0,215.0,3.0,3.0,Hi Look,0,178,56,Medium,1,292,137
+Linksys EA6700 Dual Band N450+AC1300 HD Video Pro,"[""Computers >> Network Components >> Routers >> Linksys Routers""]",21999.0,15200.0,5.0,5.0,Linksys,1,28,83,High,2,209,185
+Netgear D1500,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",2450.0,1590.0,3.9,3.9,Netgear,1,118,62,Low,0,210,221
+D-Link DIR-803,"[""Computers >> Network Components >> Routers >> D-Link Routers""]",4200.0,1859.0,4.2,4.2,D-Link,1,36,32,High,2,200,76
+TP-LINK TL-WA830RE 300 Mbps Wireless N Range Extender,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",2999.0,1910.0,3.6,3.6,TP-LINK,0,179,30,Low,0,214,333
+JDX Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",650.0,350.0,5.0,5.0,JDX,0,90,29,Medium,1,292,155
+TP-LINK Archer C2 AC750 Wireless Dual Band Gigabit Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",5999.0,3790.0,3.6,3.6,TP-LINK,1,155,49,Low,0,214,333
+D-Link DIR-600 N150 Wireless Router,"[""Computers >> Network Components >> Routers >> D-Link Routers""]",2450.0,999.0,4.1,4.1,D-Link,0,198,45,Low,0,200,76
+D-LINK DIR-510L,"[""Computers >> Network Components >> Routers >> D-LINK Routers""]",8610.0,2999.0,1.0,1.0,D-LINK,0,131,93,High,2,199,75
+TRENDnet N300 Wireless Home Router,"[""Computers >> Network Components >> Routers >> TRENDnet Routers""]",2850.0,1220.0,5.0,5.0,TRENDnet,0,159,30,High,2,216,335
+Asus DSL-N12U Wireless-N300 ADSL Modem,"[""Computers >> Network Components >> Routers >> Asus Routers""]",8000.0,2790.0,3.8,3.8,Asus,0,134,16,Medium,1,193,23
+D-Link DIR-600L,"[""Computers >> Network Components >> Routers >> D-Link Routers""]",2730.0,1079.0,4.2,4.2,D-Link,0,21,40,Low,0,200,76
+Digisol 300 Mbps Wireless ADSL2 Broadband Router,"[""Computers >> Network Components >> Routers >> Digisol Routers""]",3450.0,1950.0,2.5,2.5,Digisol,0,108,19,Low,0,201,92
+Netgear MBRN3000 3G Mobile Broadband Wireless-N Router,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",5990.0,4399.0,4.1,4.1,Netgear,0,165,18,Low,0,210,221
+Asus DSL-N55U Wireless-N600 Gigabit Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",11500.0,8200.0,3.9,3.9,Asus,1,141,1,Medium,1,193,23
+TP-LINK TL-WDR3600 N600 Wireless Dual Band Gigabit Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",6499.0,4550.0,4.2,4.2,TP-LINK,0,47,78,Medium,1,214,333
+Asus RP-N53 Dual-Band Wireless-N600 Range Extender,"[""Computers >> Network Components >> Routers >> Asus Routers""]",7490.0,7490.0,2.5,2.5,Asus,0,180,47,Medium,1,193,23
+Tenda TE D-303 N300 ADSL2+ Modem Router with USB port,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",3500.0,1675.0,4.4,4.4,Tenda,1,43,66,Medium,1,217,337
+SKC Steering Cover,"[""Automotive >> Car Accessories >> Car Interior >> Steering Covers""]",399.0,198.0,1.0,1.0,SKC,0,174,92,Medium,1,10,287
+Digisol 150 Mbps Wireless Green Broadband Router,"[""Computers >> Network Components >> Routers >> Digisol Routers""]",1899.0,1299.0,4.2,4.2,Digisol,0,30,94,High,2,201,92
+Jewels Guru Alloy Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",999.0,323.0,5.0,5.0,Jewels Guru,0,103,38,Low,0,292,161
+TP-LINK TD-W8968 300 Mbps Wireless N USB ADSL2 Modem Router,"[""Computers >> Network Components >> Routers >> TP-LINK Routers""]",3399.0,1749.0,4.1,4.1,TP-LINK,1,54,51,Low,0,214,333
+Digisol DG-BG4100N,"[""Computers >> Network Components >> Routers >> Digisol Routers""]",2499.0,1399.0,3.0,3.0,Digisol,0,157,63,Low,0,201,92
+Wi-Bridge WR3G050-01,"[""Computers >> Network Components >> Routers >> Wi-Bridge Routers""]",2299.0,1350.0,3.2,3.2,Wi-Bridge,0,156,4,Low,0,221,373
+Beetel Adsl2 + Router 450TC3 PCI Internal Modem,"[""Computers >> Network Components >> Routers >> Beetel Routers""]",1995.0,1680.0,3.9,3.9,Beetel,0,17,1,Low,0,194,31
+Belkin N300 ADSL2 Wireless Router with Modem,"[""Computers >> Network Components >> Routers >> Belkin Routers""]",4499.0,3499.0,3.6,3.6,Belkin,0,64,8,Low,0,195,35
+Asus DSL-N12E 300 Mbps Wireless ADSL Modem Router,"[""Computers >> Network Components >> Routers >> Asus Routers""]",5000.0,1899.0,4.2,4.2,Asus,0,139,29,Low,0,193,23
+Netgear N600 Wireless Dual Band Gigabit ADSL2 Modem Router (DGND3700),"[""Computers >> Network Components >> Routers >> Netgear Routers""]",12940.0,8800.0,3.6,3.6,Netgear,0,61,55,Low,0,210,221
+Tenda 3G622R+,"[""Computers >> Network Components >> Routers >> Tenda Routers""]",3500.0,1913.0,3.7,3.7,Tenda,0,40,3,High,2,217,337
+JDX Brass Necklace,"[""Jewellery >> Necklaces & Chains >> Necklaces""]",1099.0,499.0,5.0,5.0,JDX,0,177,32,Low,0,292,155
+D-Link DSL-2750U Wireless N 300 ADSL2+ 4-Port Wi-Fi,"[""Computers >> Network Components >> Routers >> D-Link Routers""]",3140.0,2069.0,4.3,4.3,D-Link,0,24,10,High,2,200,76
+Netgear WN3000RP Universal Wi-Fi Range Extender,"[""Computers >> Network Components >> Routers >> Netgear Routers""]",3499.0,2140.0,4.4,4.4,Netgear,1,69,74,Medium,1,210,221
+Zingalalaa LP-50 50 lm LED Corded Portable Projector,"[""Computers >> Computer Peripherals >> Portable Projectors >> Zingalalaa Portable Projectors >> Zingalalaa LP-50 50 lm LED Corded Portable Proje...""]",6250.0,3480.0,2.3,2.3,Zingalalaa,0,12,83,Low,0,169,387
+totalcare Expert METAL & GLASS SHINER Car Washer,"[""Automotive >> Accessories & Spare parts >> Car & Bike Care >> Vehicle Washing & Cleaning >> Car Washer Liquids >> totalcare Expert METAL & GLASS SHINER Car Washer...""]",288.0,288.0,4.0,4.0,totalcare Expert,0,148,34,Medium,1,3,395
+INDIANO Flip Flops,"[""Footwear >> Women's Footwear >> Slippers & Flip Flops >> INDIANO Flip Flops""]",799.0,399.0,5.0,5.0,INDIANO,0,146,97,Medium,1,243,143
+Prestige Popular Plus 10 L Pressure Cooker,"[""Kitchen & Dining >> Pressure Cookers & Pans >> Prestige Pressure Cookers & Pans""]",2600.0,2100.0,3.0,3.0,Prestige,0,119,87,Medium,1,328,251
+Prestige Deluxe Plus 10 L Pressure Cooker,"[""Kitchen & Dining >> Pressure Cookers & Pans >> Prestige Pressure Cookers & Pans""]",2760.0,2345.0,3.0,3.0,Prestige,0,147,55,High,2,328,251
+Revine Men's Printed Casual Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Casual & Party Wear Shirts >> Revine Casual & Party Wear Shirts""]",1299.0,849.0,5.0,5.0,Slim,0,96,92,Medium,1,49,305
+WROGN Men's Solid Casual Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Casual & Party Wear Shirts >> WROGN Casual & Party Wear Shirts""]",1999.0,999.0,5.0,5.0,Slim,0,102,32,Medium,1,50,305
+Prestige Nakshatra Alpha 7 L Pressure Cooker,"[""Kitchen & Dining >> Pressure Cookers & Pans >> Prestige Pressure Cookers & Pans""]",2495.0,2047.0,4.0,4.0,Prestige,0,70,50,Medium,1,328,251
+Maharaja Whiteline Neo (MX-147) 500 W Mixer Grinder,"[""Home & Kitchen >> Kitchen Appliances >> Mixer/juicer/grinders >> Maharaja Whiteline Mixer/juicer/grinders""]",2999.0,1599.0,4.0,4.0,Maharaja Whiteline,1,36,7,Low,0,252,196
+Dhhan 8 watt Rechargeable Emergency Lights,"[""Home & Kitchen >> Home Appliances >> Lightings >> Dhhan Lightings >> Dhhan 8 watt Rechargeable Emergency Lights (White)""]",899.0,299.0,5.0,5.0,Dhhan,0,195,93,Low,0,249,89
+"JBN Creation Girl's Kurti, Legging and Dupatta Set","[""Clothing >> Kids' Clothing >> Girls Wear >> Ethnic Wear >> Ethnic Sets >> JBN Creation Ethnic Sets >> JBN Creation Girl's Kurti, Legging and Dupatta Set""]",1499.0,599.0,5.0,5.0,JBN Creation,0,90,8,High,2,40,154
+Cayman Solid Boy's Track Suit,"[""Clothing >> Kids' Clothing >> Boys Wear >> Sports Wear >> Track Suits >> Cayman Track Suits >> Cayman Solid Boy's Track Suit""]",1445.0,1300.0,2.0,2.0,Cayman,0,55,65,High,2,37,58
+Blessed Ring Basket Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",800.0,499.0,5.0,5.0,Blessed,0,157,57,Low,0,383,42
+Rk Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1299.0,749.0,1.0,1.0,Rk,0,190,67,High,2,383,278
+VGreen Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",499.0,320.0,2.0,2.0,VGreen,0,67,88,Low,0,383,358
+Rk Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1050.0,699.0,3.0,3.0,Rk,0,194,87,Medium,1,383,278
+Blessed Gamla Basket Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",850.0,560.0,1.0,1.0,Blessed,0,129,59,Medium,1,383,42
+Martha Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",6500.0,5250.0,5.0,5.0,Martha,0,154,72,High,2,383,200
+Natures Plus IMG_0004 Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",390.0,390.0,5.0,5.0,Natures Plus,0,62,54,Low,0,383,217
+Blessed Jaali Basket Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",750.0,399.0,5.0,5.0,Blessed,0,62,67,Low,0,383,42
+Easy Gardening 8 Inch Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",650.0,450.0,2.0,2.0,Easy Gardening,0,90,51,High,2,383,102
+Easy Gardening 10 Inch Square Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",900.0,600.0,3.0,3.0,Easy Gardening,0,53,97,Low,0,383,102
+The Yellow Door Planters with Tray/ Tea Light Holders - Green Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1499.0,653.0,2.5,2.5,The Yellow Door,0,184,92,Medium,1,383,340
+DGB HP 500 520 HSTNN-IB44 6 Cell Laptop Battery,"[""Computers >> Laptop Accessories >> Batteries >> DGB Batteries""]",2499.0,1349.0,2.5,2.5,DGB,0,174,8,High,2,173,77
+Rk Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1420.0,949.0,1.0,1.0,Rk,0,74,34,High,2,383,278
+Go Hooked Mini Table Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",750.0,750.0,1.3,1.3,Go Hooked,1,19,35,Low,0,383,126
+Sutra Decor Handmade Metallic Petals Planters Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1198.0,399.0,1.0,1.0,Sutra Decor,0,58,96,High,2,383,325
+Joy Living Garden Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",300.0,300.0,3.4,3.4,Joy Living,0,192,88,Low,0,383,165
+Blessed Plain Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1300.0,999.0,3.0,3.0,Blessed,0,105,78,Low,0,383,42
+Joy Living Garden Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1000.0,1000.0,3.7,3.7,Joy Living,0,12,32,Low,0,383,165
+Joy Living Garden Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",999.0,600.0,3.0,3.0,Joy Living,0,57,46,Low,0,383,165
+First Smart Deal Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",199.0,189.0,3.0,3.0,First Smart Deal,0,64,16,Low,0,383,120
+Easy Gardening 12 Inch Square Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1400.0,900.0,1.0,1.0,Easy Gardening,0,112,68,High,2,383,102
+Easy Gardening 10 Inch Nursery Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1500.0,999.0,4.0,4.0,Easy Gardening,0,9,37,Medium,1,383,102
+Lapguard Lenovo IdeaPad V470 6 Cell Laptop Battery,"[""Computers >> Laptop Accessories >> Batteries >> Lapguard Batteries""]",3999.0,1799.0,2.0,2.0,Lapguard,0,107,54,Medium,1,176,178
+Clublaptop Sony VGN BPS22/BPS22A 6 Cell Laptop Battery,"[""Computers >> Laptop Accessories >> Batteries >> Clublaptop Batteries""]",3800.0,2636.0,4.0,4.0,Clublaptop,0,10,85,High,2,172,65
+Go Hooked Basket Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",700.0,700.0,4.0,4.0,Go Hooked,0,113,14,High,2,383,126
+Green Girgit Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",500.0,350.0,4.0,4.0,Green Girgit,0,120,95,Medium,1,383,129
+Hako HP Compaq Presario CQ45-106AU 6 Cell Laptop Battery,"[""Computers >> Laptop Accessories >> Batteries >> Hako Batteries""]",2950.0,1299.0,4.0,4.0,Hako,0,98,55,Medium,1,175,133
+Go Hooked Mini Table Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",750.0,750.0,5.0,5.0,Go Hooked,0,51,48,Medium,1,383,126
+Natures Plus Home Garden Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",300.0,300.0,5.0,5.0,Natures Plus,0,103,82,Medium,1,383,217
+ARB HP Compaq Presario CQ45 Compatible Black 6 Cell Laptop Battery,"[""Computers >> Laptop Accessories >> Batteries >> ARB Batteries""]",3499.0,1499.0,4.0,4.0,ARB,0,59,7,Medium,1,171,2
+HP Compaq Presario CQ43 6 Cell Laptop Battery,"[""Computers >> Laptop Accessories >> Batteries >> HP Batteries""]",4550.0,2478.0,1.0,1.0,HP,0,172,74,Low,0,174,132
+Hako HP Compaq Presario CQ45-207TU 6 Cell Laptop Battery,"[""Computers >> Laptop Accessories >> Batteries >> Hako Batteries""]",2950.0,1299.0,4.0,4.0,Hako,0,56,7,High,2,175,133
+Joy Living Garden Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",300.0,300.0,5.0,5.0,Joy Living,1,148,33,Low,0,383,165
+Green Girgit Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",500.0,375.0,1.0,1.0,Green Girgit,0,17,23,Medium,1,383,129
+Joy Living Garden Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",450.0,450.0,2.3,2.3,Joy Living,0,118,85,Medium,1,383,165
+Color Palatte Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1050.0,515.0,3.0,3.0,Color Palatte,0,128,19,Medium,1,383,68
+Natures Plus Home Garden Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",350.0,290.0,3.0,3.0,Natures Plus,0,110,19,Low,0,383,217
+Agricart African Marigold Vanilla F1- White Seed,"[""Home Improvement >> Lawn & Gardening >> Plants >> Plant Seeds""]",150.0,150.0,5.0,5.0,Agricart,0,162,36,Low,0,285,9
+VGreen Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1200.0,920.0,1.0,1.0,VGreen,0,151,29,Medium,1,383,358
+Blessed Ring Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1350.0,849.0,3.0,3.0,Blessed,0,149,60,Low,0,383,42
+Joy Living Garden Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",750.0,750.0,4.5,4.5,Joy Living,1,124,82,Low,0,383,165
+Agricart Lettuce Seed,"[""Home Improvement >> Lawn & Gardening >> Plants >> Plant Seeds""]",80.0,80.0,1.0,1.0,Agricart,0,67,2,Medium,1,285,9
+Natures Plus Home Garden Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",250.0,239.0,3.0,3.0,Natures Plus,0,23,1,Low,0,383,217
+Yuccabe Italia Stella Yellow Self Watering Planter Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1299.0,750.0,1.0,1.0,Yuccabe Italia,0,96,47,High,2,383,383
+Blessed Plain Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1299.0,599.0,2.3,2.3,Blessed,0,62,69,High,2,383,42
+Joy Living Garden Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",400.0,400.0,3.0,3.0,Joy Living,0,187,20,High,2,383,165
+First Smart Deal Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",549.0,450.0,1.0,1.0,First Smart Deal,0,94,11,High,2,383,120
+E-plant Spicy Chillie Seed,"[""Home Improvement >> Lawn & Gardening >> Plants >> Plant Seeds""]",299.0,160.0,2.0,2.0,E-plant,0,121,2,Medium,1,285,99
+Natures Plus Home Garden Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",555.0,500.0,2.8,2.8,Natures Plus,0,66,67,Medium,1,383,217
+E-plant Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",499.0,200.0,2.3,2.3,E-plant,0,27,87,Medium,1,383,99
+Onlineshoppee Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",1350.0,949.0,4.0,4.0,Onlineshoppee,0,131,12,High,2,383,233
+Natures Plus Home Garden Plant Container Set,"[""Tools & Hardware >> Tools >> Gardening Tools >> Plant Containers & Sets >> Plant Container Sets""]",430.0,430.0,4.0,4.0,Natures Plus,0,141,20,High,2,383,217
+"Aadi Alloy, Metal Bangle","[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1200.0,529.0,4.0,4.0,Aadi,0,144,5,Low,0,286,4
+Clovia Women's Full Coverage Bra,"[""Clovia Women's Full Coverage Bra""]",499.0,249.0,4.5,4.5,Clovia,0,133,37,Low,0,163,64
+Body Balance Imon Energy Wristband,"[""Sports & Fitness >> Outdoor & Adventure >> Running >> Bands >> Body Balance Bands >> Body Balance Imon Energy Wristband""]",900.0,270.0,3.3,3.3,Body Balance,0,62,38,High,2,380,45
+Clovia Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Clovia Bras >> Clovia Women's Full Coverage Bra""]",799.0,319.0,1.0,1.0,Clovia,0,126,94,High,2,73,64
+Clovia Women's T-Shirt Bra,"[""Clovia Women's T-Shirt Bra""]",599.0,479.0,3.8,3.8,Clovia,0,5,9,High,2,165,64
+Clovia Women's Full Coverage Bra,"[""Clovia Women's Full Coverage Bra""]",279.0,279.0,4.5,4.5,Clovia,0,38,98,High,2,163,64
+Clovia Women's T-Shirt Bra,"[""Clovia Women's T-Shirt Bra""]",599.0,479.0,2.0,2.0,Clovia,0,100,53,Low,0,165,64
+"Naughty Ninos Girl's White, Pink Dungaree","[""Clothing >> Kids' Clothing >> Girls Wear >> Dungarees & Jumpsuits >> Dungarees >> Naughty Ninos Dungarees >> Naughty Ninos Girl's White, Pink Dungaree""]",2199.0,999.0,2.5,2.5,Naughty Ninos,0,130,44,High,2,39,218
+Clovia Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Clovia Bras >> Clovia Women's Full Coverage Bra""]",399.0,319.0,4.0,4.0,Clovia,0,122,99,Low,0,73,64
+Clovia Women's Full Coverage Bra,"[""Clovia Women's Full Coverage Bra""]",279.0,279.0,1.7,1.7,Clovia,0,52,86,High,2,163,64
+Clovia Women's T-Shirt Bra,"[""Clothing >> Women's Clothing >> Clovia Women's Clothing >> Clovia Women's T-Shirt Bra""]",599.0,479.0,1.0,1.0,Clovia,0,93,24,High,2,68,64
+Clovia Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Clovia Lingerie, Sleep & Swimwear >> Clovia Women's Full Coverage Bra""]",399.0,319.0,3.3,3.3,Clovia,0,121,81,High,2,108,64
+Clovia Women's T-Shirt Bra,"[""Clothing >> Clovia Clothing >> Clovia Women's T-Shirt Bra""]",599.0,479.0,3.4,3.4,Clovia,0,133,74,Low,0,30,64
+Clovia Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Clovia Lingerie, Sleep & Swimwear >> Clovia Women's Full Coverage Bra""]",399.0,319.0,3.7,3.7,Clovia,0,20,30,Low,0,108,64
+Clovia Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Clovia Bras >> Clovia Women's Full Coverage Bra""]",599.0,479.0,2.0,2.0,Clovia,0,193,59,Medium,1,73,64
+Clovia Women's T-Shirt Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Clovia Bras >> Clovia Women's T-Shirt Bra""]",599.0,269.0,4.0,4.0,Clovia,0,196,87,High,2,74,64
+Woly Smooth Leather Shoe Cream,"[""Footwear >> Men's Footwear >> Shoe Care >> Shoe Polishes & Creams >> Woly Shoe Polishes & Creams >> Woly Smooth Leather Shoe Cream (Brown)""]",200.0,200.0,4.0,4.0,Woly,1,195,96,Medium,1,238,376
+METMO Slippers,"[""Footwear >> Kids' & Infant Footwear >> METMO Slippers""]",599.0,229.0,5.0,5.0,METMO,0,73,81,Medium,1,237,191
+Clovia Women's T-Shirt Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Clovia Bras >> Clovia Women's T-Shirt Bra""]",599.0,299.0,4.5,4.5,Clovia,0,26,81,Low,0,74,64
+Clovia Women's T-Shirt Bra,"[""Clovia Women's T-Shirt Bra""]",599.0,479.0,5.0,5.0,Clovia,0,97,14,Low,0,165,64
+Clovia Women's Full Coverage Bra,"[""Clovia Women's Full Coverage Bra""]",349.0,279.0,3.0,3.0,Clovia,0,199,9,Medium,1,163,64
+Pu-Good Women Flats,"[""Pu-Good Women Flats""]",999.0,378.0,5.0,5.0,Pu-Good,0,80,40,High,2,369,255
+Clovia Women's Full Coverage Bra,"[""Clovia Women's Full Coverage Bra""]",799.0,559.0,2.0,2.0,Clovia,0,158,66,Low,0,163,64
+Clovia Women's T-Shirt Bra,"[""Clovia Women's T-Shirt Bra""]",599.0,479.0,2.2,2.2,Clovia,0,148,25,High,2,165,64
+Clovia Women's T-Shirt Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Clovia Bras >> Clovia Women's T-Shirt Bra""]",599.0,479.0,3.0,3.0,Clovia,0,183,73,High,2,74,64
+Clovia Women's T-Shirt Bra,"[""Clovia Women's T-Shirt Bra""]",599.0,479.0,3.7,3.7,Clovia,0,90,22,Medium,1,165,64
+Clovia Women's Plunge Bra,"[""Clovia Women's Plunge Bra""]",399.0,399.0,3.0,3.0,Clovia,0,189,4,Medium,1,164,64
+Decore Sources Assorted Artificial Plant  with Pot,"[""Home Decor & Festive Needs >> Flowers, Plants & Vases >> Artificial Plants >> Decore Sources Artificial Plants >> Decore Sources Assorted Artificial Plant  with P...""]",1150.0,515.0,3.0,3.0,Decore Sources,0,33,26,Medium,1,254,84
+Subh-Akriti Assorted Artificial Plant,"[""Home Decor & Festive Needs >> Flowers, Plants & Vases >> Artificial Plants >> Subh-Akriti Artificial Plants >> Subh-Akriti Assorted Artificial Plant (66 cm, Gr...""]",1500.0,649.0,5.0,5.0,Subh-Akriti,0,73,58,Medium,1,255,322
+Kaizer Jewelry Stainless Steel Zircon Ring,"[""Jewellery >> Rings""]",5769.0,599.0,5.0,5.0,Kaizer Jewelry,0,51,29,Low,0,294,167
+i-KitPit Pouch for Lenovo A369i,"[""Mobiles & Accessories >> Mobile Accessories >> Mobile Pouches >> i-KitPit Mobile Pouches""]",399.0,249.0,1.0,1.0,i-KitPit,0,98,98,Low,0,336,390
+i-KitPit Pouch for Lenovo A369i,"[""Mobiles & Accessories >> Mobile Accessories >> Mobile Pouches >> i-KitPit Mobile Pouches""]",299.0,199.0,4.0,4.0,i-KitPit,0,194,87,Medium,1,336,390
+i-KitPit Pouch for Lenovo A369i,"[""Mobiles & Accessories >> Mobile Accessories >> Mobile Pouches >> i-KitPit Mobile Pouches""]",399.0,249.0,5.0,5.0,i-KitPit,0,148,37,Low,0,336,390
+Ciemme 0.11 CT Women's Designer Circle Flower Promise Yellow Gold Diamond 18 K Ring,"[""Jewellery >> Rings""]",11455.0,10880.0,5.0,5.0,Ciemme,0,180,75,Medium,1,294,62
+Highlander Men's Solid Casual Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Casual & Party Wear Shirts >> Highlander Casual & Party Wear Shirts""]",1599.0,499.0,2.0,2.0,Slim,1,89,70,High,2,46,305
+Highlander Men's Printed Casual Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Casual & Party Wear Shirts >> Highlander Casual & Party Wear Shirts""]",1599.0,499.0,5.0,5.0,Slim Fit,1,43,18,High,2,46,306
+"Royal Diamond Jewellery Charisma Gold, Yellow Gold Diamond Yellow Gold 14 K Ring","[""Jewellery >> Rings""]",6900.0,6624.0,4.0,4.0,Royal Diamond Jewellery,0,104,85,High,2,294,282
+WearYourShine by PCJ The Nitza Diamond Gold Diamond Yellow Gold 18 K Ring,"[""Jewellery >> Rings""]",7403.0,7403.0,1.0,1.0,WearYourShine by PCJ,0,37,42,Medium,1,294,371
+"Sparkle Street Brass, Enamel Bangle Set","[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",2500.0,1125.0,5.0,5.0,Sparkle Street,0,105,41,High,2,286,313
+Alda 3 Ply SS Lid Pan 26 cm diameter,"[""Kitchen & Dining >> Cookware >> Pots & Pans >> Kitchen Handi >> Alda  Kitchen Handi""]",3390.0,2790.0,5.0,5.0,Alda,0,27,38,Low,0,298,13
+HP 15-ac116TX (Notebook) (Core i3 (5th Gen)/ 4GB/ 1TB/ Win10/ 2GB Graph) (N8M19PA),"[""Computers >> Laptops >> HP Laptops""]",38890.0,38890.0,5.0,5.0,HP,1,14,34,High,2,190,132
+HP 15-ac121tu (Notebook) (Core i3 (5th Gen)/ 4GB/ 1TB/ Win10) (N8M17PA),"[""Computers >> Laptops >> HP Laptops""]",35390.0,35390.0,4.5,4.5,HP,1,73,17,High,2,190,132
+Puma Men's Striped Casual Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Casual & Party Wear Shirts >> Puma Casual & Party Wear Shirts""]",2199.0,1209.0,4.5,4.5,Slim Fit,1,104,37,High,2,48,306
+Docare Women's Sports Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Docare Bras""]",600.0,405.0,1.0,1.0,White,0,38,25,Low,0,77,372
+Sterling Rolling Pin Holder with Tong Stainless Steel Kitchen Rack,"[""Kitchen & Dining >> Containers & Bottles >> Kitchen Racks & Trolleys >> Kitchen Racks >> Sterling Kitchen Racks""]",1299.0,449.0,5.0,5.0,Steel,0,184,76,Medium,1,296,317
+"Calibra Women's Full Coverage, T-Shirt Bra","[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Calibra Bras""]",250.0,219.0,4.7,4.7,Maroon,0,142,87,Low,0,72,199
+Clovia In Aqua Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Clovia Bras""]",349.0,249.0,5.0,5.0,Aqua,0,151,86,Medium,1,75,20
+Clovia Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Clovia Bras""]",349.0,249.0,1.0,1.0,PURPLE,0,190,85,Medium,1,75,238
+Deep Under Women's Tube Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Deep Under Bras""]",430.0,195.0,2.9,2.9,Beige,0,100,27,High,2,76,32
+Clovia Non Padded Wired Red Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Clovia Bras""]",399.0,249.0,4.5,4.5,RED,0,5,57,Medium,1,75,263
+TAB91 Praveen Women's Printed Top & Pyjama Set,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Night Suits >> TAB91 Night Suits >> TAB91 Praveen Women's Printed Top & Pyjama Set""]",1599.0,749.0,2.0,2.0,TAB91,0,73,31,Low,0,110,332
+John Players Men's Checkered Formal Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Formal Shirts >> John Players Formal Shirts >> John Players Men's Checkered Formal Shirt""]",999.0,519.0,5.0,5.0,John Players,1,8,6,Low,0,52,164
+Njoy Boy's KBP1 Brief,"[""Clothing >> Kids' Clothing >> Boys Wear >> Innerwear & Sleepwear >> Briefs >> Njoy Briefs >> Njoy Boy's KBP1 Brief (Pack of 5)""]",450.0,320.0,2.5,2.5,Njoy,0,20,91,Medium,1,34,228
+BM BELMONTE EWC Toilet Seat S Trap Western Commode,"[""Tools & Hardware >> Tools >> Hardware & Electricals >> Hardware >> Bathroom Fittings & Sanitary >> Commodes >> BM BELMONTE EWC Toilet Seat S Trap Western Commo...""]",4140.0,3499.0,5.0,5.0,BM BELMONTE,0,28,40,High,2,385,27
+Metmo Flip Flops,"[""Footwear >> Kids' & Infant Footwear >> For Boys >> Slippers & Flip Flops >> Metmo Flip Flops""]",499.0,149.0,5.0,5.0,Metmo,0,84,98,High,2,233,205
+I-Voc Men's Printed Casual Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Casual & Party Wear Shirts >> I-Voc Casual & Party Wear Shirts""]",1199.0,471.0,2.5,2.5,Slim,0,6,12,Low,0,47,305
+Chipchop Baby Girl's Empire Waist Blue Dress,"[""Baby Care >> Infant Wear >> Baby Girls' Clothes >> Dresses & Skirts >> Dresses >> Chipchop Dresses >> Chipchop Baby Girl's Empire Waist Blue Dress""]",1799.0,959.0,5.0,5.0,Chipchop,0,132,53,High,2,22,61
+Kawachi Outdoor Sports Night Vision Driving Yellow Sunglass Plus White Transparent Motorcycle Goggles,"[""Sports & Fitness >> Outdoor & Adventure >> Cycling >> Goggles >> Kawachi Goggles >> Kawachi Outdoor Sports Night Vision Driving Yell...""]",1200.0,590.0,3.8,3.8,Kawachi,0,164,71,Medium,1,379,170
+Tiny Toon Girl's Gathered Red Dress,"[""Clothing >> Kids' Clothing >> Girls Wear >> Dresses & Skirts >> Dresses >> Tiny Toon Dresses >> Tiny Toon Girl's Gathered Red Dress""]",1999.0,599.0,5.0,5.0,Tiny Toon,0,88,10,Medium,1,38,341
+Quechua Forclaz 22 Air Backpack,"[""Sports & Fitness >> Outdoor & Adventure >> Camping & Hiking >> Camping & Hiking Bags & Packs >> Quechua Camping & Hiking Bags & Packs >> Quechua Forclaz 22 Air Backpack (Blue, Black, Ba...""]",3499.0,2872.0,5.0,5.0,Quechua,0,156,45,Low,0,376,260
+Outgear Domain,"[""Sports & Fitness >> Outdoor & Adventure >> Camping & Hiking >> Camping & Hiking Bags & Packs >> Outgear Camping & Hiking Bags & Packs >> Outgear Domain (Grey)""]",3360.0,3360.0,3.0,3.0,Outgear,1,144,17,Medium,1,375,237
+Max T-Shirt,"[""Clothing >> Kids' Clothing >> Infants Wear >> Baby Boys >> Polos & T-Shirts >> Max Polos & T-Shirts >> Max T-Shirt""]",149.0,149.0,5.0,5.0,Max,1,182,26,Low,0,42,202
+Wildcraft Waist Pouch,"[""Sports & Fitness >> Outdoor & Adventure >> Camping & Hiking >> Camping & Hiking Bags & Packs >> Wildcraft Camping & Hiking Bags & Packs >> Wildcraft Waist Pouch (Pink)""]",595.0,595.0,4.3,4.3,Wildcraft,0,167,85,Medium,1,378,374
+Wildcraft Digital Pouch Travel Bag,"[""Sports & Fitness >> Outdoor & Adventure >> Camping & Hiking >> Camping & Hiking Bags & Packs >> Wildcraft Camping & Hiking Bags & Packs >> Wildcraft Digital Pouch Travel Bag (Grey)""]",395.0,395.0,4.3,4.3,Wildcraft,1,128,92,Low,0,377,374
+Mount Track Discover 9107or 75 Ltrs,"[""Sports & Fitness >> Outdoor & Adventure >> Camping & Hiking >> Camping & Hiking Bags & Packs >> Mount Track Camping & Hiking Bags & Packs >> Mount Track Discover 9107or 75 Ltrs (Orange, Ruc...""]",4000.0,2099.0,4.0,4.0,Mount Track,0,37,62,High,2,374,208
+Coleman RTX 3500i C010 Backpack,"[""Sports & Fitness >> Outdoor & Adventure >> Camping & Hiking >> Camping & Hiking Bags & Packs >> Coleman Camping & Hiking Bags & Packs >> Coleman RTX 3500i C010 Backpack (Grey, Black)""]",4500.0,4500.0,4.0,4.0,Coleman,1,165,46,Medium,1,373,67
+Small Toes Slippers,"[""Footwear >> Kids' & Infant Footwear >> For Boys >> Slippers & Flip Flops >> Small Toes Slippers""]",398.0,249.0,5.0,5.0,Small Toes,0,193,64,Medium,1,235,307
+Metmo Slippers,"[""Footwear >> Kids' & Infant Footwear >> For Boys >> Slippers & Flip Flops >> Metmo Slippers""]",599.0,249.0,5.0,5.0,Metmo,0,183,2,Low,0,234,205
+Sai Senorita Solid Women's Half length Tights,"[""Clothing >> Women's Clothing >> Sports & Gym Wear >> Tights >> Sai Senorita Tights >> Sai Senorita Solid Women's Half length Tights""]",150.0,150.0,3.0,3.0,Sai Senorita,0,175,54,Low,0,112,291
+Varmora VCST0 Living & Bedroom Stool,"[""Kitchen & Dining >> Housekeeping & Laundry >> Stools & Ladders >> Stools >> Varmora Stools >> Varmora VCST0 Living & Bedroom Stool (White)""]",500.0,399.0,4.8,4.8,Varmora,0,105,65,Medium,1,315,360
+Favourite Bikerz FBZ 8784 112 dB Vehicle Horn,"[""Automotive >> Accessories & Spare parts >> Spares & Performance Parts >> Car Spare Parts >> Vehicle Horns""]",599.0,376.0,4.0,4.0,Favourite Bikerz,0,16,51,Low,0,7,116
+DeStudio Tiny Wall Sticker,"[""Home Decor & Festive Needs >> Wall Decor & Clocks >> Wall Decals & Stickers >> DeStudio Wall Decals & Stickers""]",598.0,399.0,2.0,2.0,DeStudio,0,71,53,Medium,1,275,83
+Syska Led Lights 5 W LED Bulb,"[""Kitchen & Dining >> Lighting >> Bulbs >> Syska Led Lights Bulbs""]",399.0,245.0,5.0,5.0,Syska Led Lights,0,69,36,High,2,326,331
+Bling Book Case for iPad 2 / 3,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> Bling Cases & Covers""]",1816.0,99.0,2.0,2.0,Bling,1,165,26,Low,0,355,43
+APS Sleeve for Micromax Funbook Mini P410,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> APS Cases & Covers""]",699.0,250.0,2.0,2.0,APS,0,172,29,Medium,1,352,1
+Store Indya Hand Crafted Embossed Leather Diary with Celtic Patterns Regular Journal Hard Bound,"[""Pens & Stationery >> Diaries & Notebooks >> Journals >> Store Indya Journals""]",600.0,580.0,4.0,4.0,Store Indya,1,78,21,High,2,363,318
+Philips 12.5 W LED Stellar Bright Bulb,"[""Kitchen & Dining >> Lighting >> Bulbs >> Philips Bulbs""]",799.0,490.0,3.7,3.7,Philips,0,47,11,High,2,325,245
+Swarnim Jewellers Lord Ganesha Showpiece  -  7.5 cm,"[""Home Decor & Festive Needs >> Showpieces >> Swarnim Jewellers Showpieces""]",600.0,480.0,5.0,5.0,Swarnim Jewellers,0,48,40,Medium,1,264,327
+Elan A5 Journal Ring Bound,"[""Pens & Stationery >> Diaries & Notebooks >> Journals >> Elan Journals""]",2295.0,2295.0,4.5,4.5,Elan,1,33,11,Low,0,362,104
+Designwallas Festive Pack (Set of 2) Notebook Hard Bound,"[""Pens & Stationery >> Office Supplies >> Designwallas Office Supplies""]",590.0,590.0,1.0,1.0,Designwallas,1,145,36,Medium,1,364,88
+Favourite BikerZ FBZ 6455 110 dB Vehicle Horn,"[""Automotive >> Accessories & Spare parts >> Spares & Performance Parts >> Car Spare Parts >> Vehicle Horns""]",788.0,499.0,5.0,5.0,Favourite BikerZ,0,16,59,High,2,7,115
+Ornate 7 W LED Bulb,"[""Kitchen & Dining >> Lighting >> Bulbs >> Ornate Bulbs""]",375.0,209.0,5.0,5.0,Ornate,0,99,39,Medium,1,324,236
+Favourite BikerZ FBZ 6480 110 dB Vehicle Horn,"[""Automotive >> Accessories & Spare parts >> Spares & Performance Parts >> Car Spare Parts >> Vehicle Horns""]",788.0,499.0,5.0,5.0,Favourite BikerZ,0,50,99,Low,0,7,115
+Durian BID/32625/A/2 Leatherette 2 Seater Sofa,"[""Furniture >> Living Room >> Sofas & Sectionals""]",18800.0,12220.0,1.0,1.0,Durian,0,134,54,High,2,244,98
+HomeTown CIAZ Fabric 3 Seater Sectional,"[""Furniture >> Living Room >> Sofas & Sectionals""]",37900.0,14900.0,4.0,4.0,HomeTown,0,39,98,Medium,1,244,140
+Durian BID/32625/A/3 Leatherette 3 Seater Sofa,"[""Furniture >> Living Room >> Sofas & Sectionals""]",27200.0,17680.0,1.0,1.0,Durian,0,85,55,Low,0,244,98
+Rubera Alloy Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1500.0,695.0,4.0,4.0,Rubera,0,94,24,High,2,286,284
+Voylla Alloy Zircon Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1339.0,525.0,3.0,3.0,Voylla,0,12,22,Low,0,286,368
+Durian Clinton/A/3 Leather 3 Seater Sofa,"[""Furniture >> Living Room >> Sofas & Sectionals""]",73500.0,47775.0,5.0,5.0,Durian,0,97,69,High,2,244,98
+Generix Book Cover for ASUS Fonepad 7 2014 FE170CG,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> Generix Cases & Covers""]",1499.0,299.0,4.8,4.8,Generix,0,158,56,Medium,1,358,124
+Eveready 14 W LED Bulb,"[""Kitchen & Dining >> Lighting >> Bulbs >> Eveready Bulbs""]",899.0,420.0,4.0,4.0,Eveready,0,94,33,Low,0,322,111
+MOCC New Horn Set Imported With 18 Tunes 110 dB Vehicle Horn,"[""Automotive >> Accessories & Spare parts >> Spares & Performance Parts >> Car Spare Parts >> Vehicle Horns""]",999.0,280.0,3.5,3.5,MOCC,0,166,36,High,2,7,192
+"Camy Alloy, Metal Jewel Set","[""Jewellery >> Jewellery Sets""]",1360.0,299.0,5.0,5.0,Camy,0,119,20,Low,0,289,54
+Durian Berry Solid Wood 3 Seater Sofa,"[""Furniture >> Living Room >> Sofas & Sectionals""]",48600.0,31590.0,5.0,5.0,Durian,0,109,83,Low,0,244,98
+Infiniti 9 W LED Warm White B22 Bulb,"[""Kitchen & Dining >> Lighting >> Bulbs >> Infiniti Bulbs""]",898.0,898.0,5.0,5.0,Infiniti,0,139,99,Medium,1,323,148
+Eves Pret A Porter Women's Solid Casual Linen Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Eves Pret A Porter Shirts""]",1500.0,399.0,4.0,4.0,Regular,0,62,81,Low,0,131,270
+Naisha Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Naisha Shirts""]",349.0,199.0,4.0,4.0,Slim,0,118,62,High,2,152,305
+Miss Rich Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Miss Rich Shirts""]",799.0,399.0,4.0,4.0,Regular,0,79,98,High,2,149,270
+Jazzy Ben Women's Checkered Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Jazzy Ben Shirts""]",1095.0,495.0,4.5,4.5,Slim,0,161,73,High,2,141,305
+Blute Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Blute Shirts""]",500.0,275.0,1.0,1.0,Slim,0,124,26,High,2,122,305
+Vedika Jewellery Alloy Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1299.0,399.0,5.0,5.0,Vedika Jewellery,0,168,66,Medium,1,286,361
+DeDe'S Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> DeDe'S Shirts""]",1399.0,387.0,3.7,3.7,Regular,0,25,73,Low,0,126,270
+The Pari Alloy Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",2450.0,490.0,5.0,5.0,The Pari,0,168,73,Medium,1,286,339
+Mustard Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Mustard Shirts""]",799.0,479.0,5.0,5.0,Regular,0,142,40,Low,0,151,270
+Nexq Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Nexq Shirts""]",1745.0,499.0,5.0,5.0,Slim,0,105,17,Low,0,153,305
+Sukkhi Copper Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1491.0,399.0,4.0,4.0,Sukkhi,0,156,1,Low,0,286,323
+Bombay High Women's Floral Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Bombay High Shirts""]",999.0,499.0,4.5,4.5,Regular,0,196,89,Medium,1,123,270
+People Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> People Shirts""]",599.0,300.0,5.0,5.0,Regular,0,181,61,Low,0,156,270
+Miss Rich Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Miss Rich Shirts""]",799.0,399.0,4.0,4.0,Regular,0,103,43,Medium,1,149,270
+Lee Cooper Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Lee Cooper Shirts""]",999.0,449.0,5.0,5.0,Slim Fit,1,40,42,High,2,146,306
+Miss Rich Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Miss Rich Shirts""]",699.0,349.0,4.2,4.2,Regular,0,100,25,High,2,149,270
+Sukkhi Copper Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1491.0,399.0,4.2,4.2,Sukkhi,0,156,39,Low,0,286,323
+Lee Cooper Women's Checkered Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Lee Cooper Shirts""]",899.0,404.0,5.0,5.0,Slim Fit,1,155,35,Medium,1,146,306
+Life by Shoppers Stop Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Life by Shoppers Stop Shirts""]",699.0,419.0,3.0,3.0,Regular,1,194,3,High,2,147,270
+Meee Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Meee Shirts""]",795.0,397.0,4.0,4.0,Regular Fit,0,41,44,Medium,1,148,271
+Eves Pret A Porter Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Eves Pret A Porter Shirts""]",1500.0,399.0,5.0,5.0,Slim,0,16,51,Medium,1,131,305
+Sukkhi Zinc Rhodium Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1297.0,359.0,4.2,4.2,Sukkhi,0,117,94,Low,0,286,323
+Bedazzle Women's Checkered Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Bedazzle Shirts""]",1200.0,399.0,3.5,3.5,Slim,1,187,98,High,2,119,305
+Cottinfab Women's Checkered Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Cottinfab Shirts""]",899.0,299.0,4.5,4.5,Regular Fit,0,17,12,Low,0,125,271
+Bedazzle Women's Animal Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Bedazzle Shirts""]",1200.0,499.0,1.0,1.0,Regular,0,27,19,Low,0,119,270
+Mrigya Alloy Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1378.0,399.0,5.0,5.0,Mrigya,0,103,44,High,2,286,209
+Blenni Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Blenni Shirts""]",1299.0,499.0,5.0,5.0,Slim,0,109,59,High,2,121,305
+Sharani Yellow Gold Yellow Gold 22 Bangle,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1000.0,199.0,5.0,5.0,Sharani,0,34,49,Medium,1,286,296
+Miss Rich Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Miss Rich Shirts""]",799.0,399.0,5.0,5.0,Regular,0,21,61,High,2,149,270
+Wisstler Women's Floral Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Wisstler Shirts""]",799.0,449.0,5.0,5.0,Regular,0,117,17,Medium,1,161,270
+"Camy Alloy, Metal 18K Yellow Gold Bangle Set","[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1499.0,399.0,5.0,5.0,Camy,0,66,74,Medium,1,286,54
+Gmi Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Gmi Shirts""]",999.0,499.0,3.6,3.6,Slim,0,88,57,Medium,1,136,305
+Ishin Women's Solid Party Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Ishin Shirts""]",799.0,449.0,4.0,4.0,Slim,0,116,55,High,2,140,305
+Orange Plum Women's Floral Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Orange Plum Shirts""]",999.0,499.0,1.0,1.0,Regular,0,90,47,Low,0,154,270
+Bombay High Women's Polka Print Formal Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Bombay High Shirts""]",999.0,499.0,5.0,5.0,Slim,0,145,12,Medium,1,123,305
+Sukkhi Copper Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1585.0,429.0,4.0,4.0,Sukkhi,0,191,62,Low,0,286,323
+Being Fab Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Being Fab Shirts""]",1099.0,349.0,4.0,4.0,Regular,0,23,80,Low,0,120,270
+Eva De Moda Women's Graphic Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Eva De Moda Shirts""]",649.0,349.0,2.0,2.0,Regular,0,181,88,High,2,130,270
+Fabpoppy Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Fabpoppy Shirts""]",725.0,375.0,1.0,1.0,Regular,0,104,83,Low,0,133,270
+Lee Cooper Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Lee Cooper Shirts""]",899.0,404.0,1.8,1.8,Slim Fit,1,144,8,Low,0,146,306
+DeDe'S Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> DeDe'S Shirts""]",1399.0,387.0,5.0,5.0,Regular,0,193,95,High,2,126,270
+Miss Rich Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Miss Rich Shirts""]",799.0,399.0,3.3,3.3,Regular,0,151,21,Medium,1,149,270
+Sukkhi Copper Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1774.0,469.0,4.3,4.3,Sukkhi,0,80,81,Low,0,286,323
+Folklore Women's Printed Festive Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Folklore Shirts""]",949.0,474.0,4.0,4.0,Slim Fit,0,13,87,High,2,135,306
+Aimeon Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Aimeon Shirts""]",1040.0,350.0,5.0,5.0,Regular,0,32,80,Low,0,116,270
+Gmi Women's Self Design Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Gmi Shirts""]",799.0,499.0,1.0,1.0,Regular,0,132,70,Low,0,136,270
+People Women's Checkered Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> People Shirts""]",899.0,449.0,4.3,4.3,Regular Fit,1,56,72,Medium,1,156,271
+Lee Cooper Women's Floral Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Lee Cooper Shirts""]",799.0,359.0,4.3,4.3,Regular Fit,1,87,25,Low,0,146,271
+The Pari Alloy Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",2367.0,473.0,2.7,2.7,The Pari,0,115,82,High,2,286,339
+"Femninora Women's Solid Casual, Formal Shirt","[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Femninora Shirts""]",799.0,404.0,4.0,4.0,Regular,0,148,89,Low,0,134,270
+Blute Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Blute Shirts""]",500.0,250.0,3.0,3.0,Slim,0,121,12,Medium,1,122,305
+Kashana Fashions Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Kashana Fashions Shirts""]",1899.0,490.0,5.0,5.0,Regular,0,73,15,Medium,1,142,270
+Vedika Jewellery Alloy Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1299.0,375.0,5.0,5.0,Vedika Jewellery,0,103,59,High,2,286,361
+Cottinfab Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Cottinfab Shirts""]",999.0,379.0,1.0,1.0,Slim,0,144,26,Medium,1,125,305
+Dressberry Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Dressberry Shirts""]",999.0,499.0,3.0,3.0,Regular,1,29,26,Low,0,128,270
+"StylElite Women's Solid Casual, Formal Shirt","[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> StylElite Shirts""]",599.0,370.0,5.0,5.0,Regular,0,184,47,Medium,1,158,270
+"Life by Shoppers Stop Women's Printed Casual, Formal Shirt","[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Life by Shoppers Stop Shirts""]",799.0,479.0,4.0,4.0,Regular,1,127,32,High,2,147,270
+Eves Pret A Porter Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Eves Pret A Porter Shirts""]",1300.0,349.0,5.0,5.0,Regular,0,57,10,Medium,1,131,270
+Kashana Fashions Women's Polka Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Kashana Fashions Shirts""]",1899.0,490.0,4.5,4.5,Regular,0,155,16,Medium,1,142,270
+"My Design Brass, Alloy Yellow Gold Bangle Set","[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",700.0,655.0,5.0,5.0,My Design,0,148,71,Medium,1,286,211
+Gmi Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Gmi Shirts""]",999.0,499.0,2.7,2.7,Slim,0,61,17,High,2,136,305
+Hugo Chavez Women's Solid Casual Denim Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Hugo Chavez Shirts""]",1499.0,497.0,3.0,3.0,Regular,0,43,23,Medium,1,139,270
+Goodwill Impex Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Goodwill Impex Shirts""]",1150.0,399.0,1.0,1.0,Regular,0,113,26,Medium,1,138,270
+"F Fashion Stylus Women's Printed Casual, Formal Shirt","[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> F Fashion Stylus Shirts""]",999.0,399.0,3.0,3.0,Slim,0,185,85,Low,0,132,305
+La Rochelle Women's Geometric Print Casual Reversible Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> La Rochelle Shirts""]",899.0,449.0,5.0,5.0,Slim,0,46,86,High,2,144,305
+Ethnic Jewels Alloy Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",996.0,199.0,2.5,2.5,Ethnic Jewels,0,190,7,Medium,1,286,110
+Sukkhi Copper Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1491.0,399.0,4.2,4.2,Sukkhi,0,171,14,High,2,286,323
+Luxor Alloy Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",809.0,199.0,2.5,2.5,Luxor,0,146,79,Medium,1,286,188
+Tokyo Talkies Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Tokyo Talkies Shirts""]",949.0,474.0,1.0,1.0,Regular,0,126,7,Medium,1,159,270
+Sukkhi Copper Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1491.0,399.0,4.2,4.2,Sukkhi,0,137,9,Medium,1,286,323
+Eves Pret A Porter Women's Floral Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Eves Pret A Porter Shirts""]",1300.0,299.0,4.0,4.0,Regular,0,167,48,Low,0,131,270
+Picador Women's Polka Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Picador Shirts""]",799.0,399.0,2.0,2.0,Regular,0,79,72,Low,0,157,270
+Lamora Women's Checkered Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Lamora Shirts""]",499.0,297.0,5.0,5.0,Regular Fit,0,150,59,Low,0,145,271
+Sukkhi Copper Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1680.0,449.0,4.0,4.0,Sukkhi,0,80,87,High,2,286,323
+La Rochelle Women's Geometric Print Casual Reversible Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> La Rochelle Shirts""]",899.0,349.0,5.0,5.0,Slim,0,13,93,High,2,144,305
+Eves Pret A Porter Women's Checkered Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Eves Pret A Porter Shirts""]",899.0,449.0,4.2,4.2,Regular,0,78,82,Low,0,131,270
+Sukkhi Alloy Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1563.0,399.0,4.5,4.5,Sukkhi,1,190,95,High,2,286,323
+"Femninora Women's Solid Casual, Formal Shirt","[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Femninora Shirts""]",799.0,404.0,1.0,1.0,Regular,0,149,94,Medium,1,134,270
+Vedika Jewellery Alloy Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1299.0,399.0,5.0,5.0,Vedika Jewellery,0,11,39,Medium,1,286,361
+Bombay High Women's Solid Formal Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Bombay High Shirts""]",799.0,399.0,4.0,4.0,Slim,0,178,99,Medium,1,123,305
+Meee Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Meee Shirts""]",695.0,347.0,5.0,5.0,Regular,0,145,18,Low,0,148,270
+Dede'S Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Dede'S Shirts""]",1699.0,387.0,4.5,4.5,Regular,0,172,59,High,2,127,270
+DeDe'S Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> DeDe'S Shirts""]",1399.0,387.0,5.0,5.0,Regular,0,174,17,Low,0,126,270
+Aardee Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Aardee Shirts""]",599.0,359.0,4.0,4.0,Slim,0,141,14,High,2,114,305
+Adhaans Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Adhaans Shirts""]",1099.0,449.0,5.0,5.0,Regular,0,182,31,Medium,1,115,270
+Lee Cooper Women's Checkered Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Lee Cooper Shirts""]",899.0,404.0,4.0,4.0,Slim Fit,1,31,24,Low,0,146,306
+Kiosha Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Kiosha Shirts""]",1399.0,297.0,1.0,1.0,Slim,1,126,99,High,2,143,305
+Lee Cooper Women's Checkered Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Lee Cooper Shirts""]",899.0,404.0,3.0,3.0,Regular Fit,1,198,60,High,2,146,271
+Blute Women's Striped Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Blute Shirts""]",500.0,275.0,2.5,2.5,Slim,0,9,45,Medium,1,122,305
+Solah Shringar Lac Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",999.0,999.0,5.0,5.0,Solah Shringar,0,33,98,Low,0,286,309
+Jazzy Ben Women's Checkered Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Jazzy Ben Shirts""]",850.0,425.0,4.0,4.0,Slim,0,169,3,Low,0,141,305
+Concepts Women's Embroidered Casual Denim Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Concepts Shirts""]",1099.0,499.0,5.0,5.0,Regular,0,170,37,Low,0,124,270
+Dapinc Plastic Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1000.0,300.0,5.0,5.0,Dapinc,0,87,43,Medium,1,286,79
+Sukkhi Copper Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1348.0,369.0,4.1,4.1,Sukkhi,0,140,40,Low,0,286,323
+Anouk Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Anouk Shirts""]",999.0,499.0,3.0,3.0,Regular Fit,0,113,90,Medium,1,118,271
+"Femninora Women's Solid Casual, Formal Shirt","[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Femninora Shirts""]",999.0,404.0,3.0,3.0,Regular,0,69,55,Medium,1,134,270
+Sukkhi Copper Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1397.0,389.0,5.0,5.0,Sukkhi,0,90,87,Medium,1,286,323
+Miss Rich Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Miss Rich Shirts""]",799.0,399.0,3.0,3.0,Regular,0,149,39,High,2,149,270
+"Modimania Women's Self Design Casual, Formal, Festive, Party Shirt","[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Modimania Shirts""]",1200.0,499.0,4.0,4.0,Slim,0,75,15,Low,0,150,305
+"Femninora Women's Solid Casual, Formal Shirt","[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Femninora Shirts""]",799.0,404.0,3.0,3.0,Regular,0,49,4,Low,0,134,270
+Kashana Fashions Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Kashana Fashions Shirts""]",1899.0,490.0,5.0,5.0,Regular,0,136,93,Medium,1,142,270
+Kashana Fashions Women's Polka Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Kashana Fashions Shirts""]",1899.0,490.0,5.0,5.0,Regular,0,40,86,Medium,1,142,270
+"Femninora Women's Solid Casual, Formal Shirt","[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Femninora Shirts""]",799.0,404.0,4.5,4.5,Regular,0,74,25,Low,0,134,270
+"Mrigya Alloy, Metal Bangle Set","[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1378.0,399.0,3.0,3.0,Mrigya,0,163,13,Medium,1,286,209
+"Femninora Women's Solid Casual, Formal Shirt","[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Femninora Shirts""]",799.0,404.0,3.0,3.0,Regular,0,23,82,Low,0,134,270
+Fashion Fusion Alloy Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1000.0,299.0,3.1,3.1,Fashion Fusion,0,193,33,High,2,286,114
+Bombay High Women's Checkered Formal Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Bombay High Shirts""]",799.0,399.0,5.0,5.0,Slim,0,112,16,Medium,1,123,305
+"Camy Alloy, Brass Bangle Set","[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1750.0,449.0,4.2,4.2,Camy,0,186,42,Low,0,286,54
+"Osumfab Women's Solid Casual, Formal Shirt","[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Osumfab Shirts""]",799.0,399.0,4.5,4.5,Regular,0,171,66,Medium,1,155,270
+Vedika Jewellery Alloy Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1299.0,325.0,5.0,5.0,Vedika Jewellery,0,95,55,Low,0,286,361
+Kashana Fashions Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Kashana Fashions Shirts""]",1499.0,490.0,5.0,5.0,Regular fit,0,94,99,Low,0,142,272
+Nexq Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Nexq Shirts""]",1745.0,499.0,5.0,5.0,Slim,0,23,42,Medium,1,153,305
+The Pari Brass Brass Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1100.0,220.0,4.0,4.0,The Pari,0,43,34,High,2,286,339
+Ethnic Jewels Alloy Yellow Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1619.0,323.0,5.0,5.0,Ethnic Jewels,0,130,30,Low,0,286,110
+Duvi Women's Floral Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Duvi Shirts""]",799.0,399.0,4.7,4.7,Slim,0,199,13,Low,0,129,305
+Alibi By INMARK Women's Solid Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Alibi By INMARK Shirts""]",799.0,316.0,3.5,3.5,Regular Fit,0,177,13,Low,0,117,271
+Kiosha Women's Checkered Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Kiosha Shirts""]",1399.0,297.0,5.0,5.0,Slim,0,145,18,High,2,143,305
+Aviiq Book Cover for Apple iPad Mini,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> Aviiq Cases & Covers""]",1350.0,1010.0,5.0,5.0,Aviiq,0,130,32,High,2,354,26
+Jaipur Crafts Premium Collection Silver Lord Krishna With Makhan Matki Showpiece  -  13.97 cm,"[""Home Decor & Festive Needs >> Table Decor & Handicrafts >> Showpieces >> Religious Idols >> Jaipur Crafts Religious Idols""]",1499.0,838.0,5.0,5.0,Jaipur Crafts,0,62,96,Medium,1,270,158
+Ratnam Gold Diamond 18 K Ring,"[""Jewellery >> Rings""]",49999.0,44000.0,5.0,5.0,Ratnam,0,152,99,High,2,294,267
+Aviiq Book Cover for Apple iPad Mini,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> Aviiq Cases & Covers""]",1350.0,1010.0,3.0,3.0,Aviiq,0,65,39,Medium,1,354,26
+X-Doria Back Cover for iPad / 2,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> X-Doria Cases & Covers""]",2495.0,1999.0,5.0,5.0,X-Doria,0,131,46,Medium,1,361,379
+Philips QG3383 7-in-1 Multigrooming Pro,"[""Health & Personal Care Appliances >> Personal Care Appliances >> Trimmers""]",3995.0,3232.0,4.4,4.4,Philips,0,109,29,High,2,247,245
+Remington Hair Clipper HC5810-Genius Trimmer For Men,"[""Health & Personal Care Appliances >> Personal Care Appliances >> Trimmers""]",7599.0,5975.0,4.9,4.9,Remington,0,171,62,Medium,1,247,274
+Shivani Art Jesus Sheep Plate Showpiece  -  18 cm,"[""Home Decor & Festive Needs >> Table Decor & Handicrafts >> Showpieces >> Shivani Art Showpieces""]",799.0,599.0,5.0,5.0,Shivani Art,0,5,93,High,2,272,298
+"KolorFish Flip Cover for Apple iPad 2, 3, 4","[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> KolorFish Cases & Covers""]",1699.0,1299.0,5.0,5.0,KolorFish,0,135,62,Medium,1,359,174
+Rock Book Cover for iPad Mini,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> Rock Cases & Covers""]",2499.0,1749.0,4.0,4.0,Rock,1,96,57,High,2,360,280
+Airplus Book Cover for iPad Air,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> Airplus Cases & Covers""]",2599.0,1499.0,4.0,4.0,Airplus,0,194,16,High,2,353,11
+Story @ Home Checkered Double Dohar White,"[""Home Furnishing >> Bed Linen >> Blankets, Quilts & Dohars""]",1999.0,1104.0,2.8,2.8,Story @ Home,1,195,56,Medium,1,278,319
+Coddle Pocket Cloth Diaper Plus A Microfiber Insert,"[""Baby Care >> Diapering & Potty Training >> Nappies & Cloth Diapers >> Coddle Nappies & Cloth Diapers""]",980.0,599.0,5.0,5.0,Coddle,0,117,10,Low,0,19,66
+Rock Flip Cover for Apple iPad Mini Retina,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> Rock Cases & Covers""]",1699.0,1199.0,4.3,4.3,Rock,1,157,30,Medium,1,360,280
+Remington Body Hair BHT6100 Trimmer For Men,"[""Health & Personal Care Appliances >> Personal Care Appliances >> Trimmers""]",2495.0,1996.0,4.5,4.5,Remington,0,60,25,High,2,247,274
+Rock Book Cover for Samsung Galaxy Note 8.0 N5100,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> Rock Cases & Covers""]",1599.0,1199.0,4.7,4.7,Rock,1,165,84,Low,0,360,280
+Rock Flip Cover for iPad Air,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> Rock Cases & Covers""]",1999.0,1499.0,3.0,3.0,Rock,1,170,5,Medium,1,360,280
+Ratnam Gold Diamond 18 K Ring,"[""Jewellery >> Rings""]",49999.0,43950.0,5.0,5.0,Ratnam,0,121,65,Medium,1,294,267
+HoA Baby Nappy Set of 6 - Plain Pure Cotton - Assorted,"[""Baby Care >> Diapering & Potty Training >> Nappies & Cloth Diapers >> HoA Nappies & Cloth Diapers""]",399.0,199.0,2.0,2.0,HoA,0,138,94,Medium,1,20,139
+Rock Flip Cover for Tab S 8.4,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> Rock Cases & Covers""]",1499.0,1369.0,1.0,1.0,Rock,0,62,49,Low,0,360,280
+Kemei Body Groomer KM-30005 Trimmer For Men,"[""Health & Personal Care Appliances >> Personal Care Appliances >> Trimmers""]",899.0,349.0,5.0,5.0,Kemei,0,48,3,High,2,247,172
+Capdase Flip Cover for Apple iPad Mini / iPad Mini Retina Display,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> Capdase Cases & Covers""]",2199.0,1099.0,3.7,3.7,Capdase,0,177,45,Medium,1,356,56
+Dicapac Grip Back Cover for Galaxy Note,"[""Mobiles & Accessories >> Tablet Accessories >> Cases & Covers >> Dicapac Cases & Covers""]",1490.0,1350.0,4.0,4.0,Dicapac,0,164,14,Medium,1,357,91
+Dhrohar Red 72 cm Table Runner,"[""Home Furnishing >> Kitchen & Dining Linen >> Table Runners""]",299.0,299.0,4.0,4.0,Dhrohar,0,177,30,Medium,1,282,90
+Canon Toner Cartridge 416 Black,"[""Computers >> Computer Peripherals >> Printers & Inks >> Toners >> Canon Toners""]",4395.0,3220.0,2.2,2.2,Canon,0,65,68,Medium,1,170,55
+Esteem Boy's Drawer,"[""Clothing >> Kids' Clothing >> Boys Wear >> Innerwear & Sleepwear >> Bloomers & Drawers >> Esteem Bloomers & Drawers >> Esteem Boy's Drawer""]",800.0,415.0,5.0,5.0,Esteem,0,51,18,Medium,1,32,108
+StyloFashionGarments slim Fit Women's Jeans,"[""Clothing >> Women's Clothing >> Western Wear >> Jeans & Shorts >> Jeans >> StyloFashionGarments Jeans >> StyloFashionGarments slim Fit Women's Jeans""]",1295.0,698.0,5.0,5.0,StyloFashionGarments,0,153,62,High,2,113,321
+Kakori Handcrafted Seated Musician having Red Color and Nickel Polish Finish Showpiece  -  17 cm,"[""Home Decor & Festive Needs >> Showpieces >> Kakori Showpieces""]",900.0,655.0,3.0,3.0,Kakori,0,84,37,High,2,261,168
+Udaipur Art Gallery Wooden Decorative Platter,"[""Home Decor & Festive Needs >> Table Decor & Handicrafts >> Decorative Platters >> Udaipur Art Gallery Decorative Platters""]",750.0,399.0,5.0,5.0,Udaipur Art Gallery,0,122,25,Medium,1,268,351
+Pavvoin Lingerie Set,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Lingerie Sets >> Pavvoin Lingerie Sets >> Pavvoin Lingerie Set""]",999.0,445.0,5.0,5.0,Pavvoin,0,168,48,Low,0,109,239
+Stanley 14-125 Glass Cutter,"[""Tools & Hardware >> Tools >> Hand Tools >> Cutters & Snips >> Cutters""]",185.0,149.0,3.1,3.1,Stanley,1,151,65,High,2,384,316
+R18Jewels-Fashion&U Sparkle Delight Metal Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",650.0,297.0,5.0,5.0,R18Jewels-Fashion&U,0,24,53,Low,0,286,262
+Tales & Stories Slim Fit Boy's Jeans,"[""Clothing >> Kids' Clothing >> Boys Wear >> Jeans >> Tales & Stories Jeans""]",1299.0,779.0,4.0,4.0,Slim,0,189,79,High,2,35,305
+Rajasthan Crafts Abstract Single Quilts & Comforters Multicolor,"[""Home Furnishing >> Bed Linen >> Blankets, Quilts & Dohars""]",950.0,840.0,3.0,3.0,Rajasthan Crafts,0,150,73,Medium,1,278,266
+Rajasthan Crafts Abstract Single Quilts & Comforters Pink,"[""Home Furnishing >> Bed Linen >> Blankets, Quilts & Dohars""]",950.0,840.0,4.0,4.0,Rajasthan Crafts,0,51,15,High,2,278,266
+Earth Ro System Abstract Single Quilts & Comforters Multicolor,"[""Home Furnishing >> Bed Linen >> Blankets, Quilts & Dohars""]",2450.0,1000.0,5.0,5.0,Earth Ro System,0,53,49,Medium,1,278,101
+"Ireeya Abstract Single Coral Blanket White, Purple","[""Baby Care >> Baby Bedding >> Baby Blankets >> Ireeya Baby Blankets""]",850.0,529.0,5.0,5.0,Ireeya,0,18,88,High,2,17,152
+My NewBorn Solid Single Wrapper Assorted Muti Colors,"[""Baby Care >> Baby Bedding >> Baby Blankets >> My NewBorn Baby Blankets""]",1999.0,550.0,3.2,3.2,My NewBorn,0,147,68,Medium,1,18,212
+Total Care TC-L830 Screen Guard for Nokia Lumia 830,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> Total Care Screen Protectors""]",399.0,175.0,4.8,4.8,Total Care,0,163,12,Medium,1,347,344
+Karpine Glass Screen Guard for Nokia Lumia 830,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> Karpine Screen Protectors""]",999.0,399.0,1.0,1.0,Karpine,0,5,59,Medium,1,342,169
+Karpine Clear Screen Guard for Nokia lumia 830,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> Karpine Screen Protectors""]",549.0,149.0,3.7,3.7,Karpine,0,121,37,Medium,1,342,169
+Casotec Super Clear Screen Protector Screen Guard for Nokia Lumia 830,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> Casotec Screen Protectors""]",199.0,79.0,5.0,5.0,Casotec,0,58,61,Low,0,341,57
+Total Care TCMTZC1FB Matte Front & Back Protector for Sony Xperia Z1 Compact,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> Total Care Screen Protectors""]",399.0,199.0,1.0,1.0,Total Care,0,122,43,Medium,1,347,344
+Nillkin Z3-84345 Mirror Screen Guard for Blackberry Z3,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> Nillkin Screen Protectors""]",999.0,598.0,5.0,5.0,Nillkin,0,7,70,Low,0,345,225
+Love Baby Cartoon Set of Towels,"[""Baby Care >> Baby Bath & Skin >> Baby Bath Towels >> Love Baby Baby Bath Towels""]",638.0,425.0,4.3,4.3,Love Baby,0,148,39,Low,0,13,186
+Mark Home Cotton Bath Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",799.0,599.0,5.0,5.0,Mark Home,0,189,56,Medium,1,277,198
+Goddess Women Women's Animal Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Goddess Women Shirts""]",1299.0,909.0,1.0,1.0,Slim,0,16,63,Low,0,137,305
+Trend18 Women's Animal Print Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Trend18 Shirts""]",699.0,449.0,3.5,3.5,Regular,0,78,46,High,2,160,270
+"Pearl Paradise Pearl Paradise ""Kundan necklace"". Brass Jewel Set","[""Jewellery >> Jewellery Sets""]",3898.0,2860.0,5.0,5.0,Pearl Paradise,0,20,88,Medium,1,289,241
+Pilot Roller Ball Pen,"[""Pens & Stationery >> Pens >> Roller Ball Pens >> Pilot Roller Ball Pens""]",960.0,960.0,5.0,5.0,Pilot,0,106,11,Low,0,368,247
+Pilot Roller Ball Pen,"[""Pens & Stationery >> Pens >> Roller Ball Pens >> Pilot Roller Ball Pens""]",1140.0,1095.0,3.0,3.0,Pilot,0,156,62,Medium,1,368,247
+"Pearlz Ocean Pleasing Alloy Pearl, Crystal Yellow Gold Bracelet","[""Jewellery >> Bangles, Bracelets & Armlets >> Bracelets""]",1600.0,399.0,5.0,5.0,Pearlz Ocean,0,160,77,Medium,1,287,242
+Swiss Charger Cable de synchro micro USB USB Cable,"[""Mobiles & Accessories >> Mobile Accessories >> Cables >> Swiss Charger Cables""]",599.0,599.0,5.0,5.0,Swiss Charger,0,121,98,Medium,1,334,329
+Remax Micro USB Data Sync & Charging Cable USB Cable,"[""Mobiles & Accessories >> Mobile Accessories >> Cables >> Remax Cables""]",799.0,250.0,5.0,5.0,Remax,0,12,25,Low,0,333,273
+Avantree Micro USB Retractable USB Cable,"[""Mobiles & Accessories >> Mobile Accessories >> Cables >> Avantree Cables""]",599.0,499.0,3.0,3.0,Avantree,0,126,71,High,2,331,25
+LG EAD63689301 USB Cable,"[""Mobiles & Accessories >> Mobile Accessories >> Cables >> LG Cables""]",249.0,249.0,4.6,4.6,LG,0,96,52,High,2,332,175
+Uniball SAR Ball Pen,"[""Pens & Stationery >> Pens >> Ball Pens >> Uniball Ball Pens""]",150.0,145.0,4.0,4.0,Uniball,0,168,4,Low,0,367,352
+"Pearl Paradise ""Ink drop"" Swarovski Crystal Silver Dangle Earring","[""Jewellery >> Earrings""]",2480.0,1880.0,5.0,5.0,Pearl Paradise,0,94,59,Medium,1,288,241
+"Pearl Paradise Briolette With ""Ruby Red "". Swarovski Crystal Stone Dangle Earring","[""Jewellery >> Earrings""]",1480.0,1350.0,4.2,4.2,Pearl Paradise,0,140,72,Low,0,288,241
+Pearl Paradise Elements Swarovski Crystal Stone Dangle Earring,"[""Jewellery >> Earrings""]",1380.0,1242.0,4.8,4.8,Pearl Paradise,0,190,20,Low,0,288,241
+Pearl Paradise Briolette With Moonlight Elements. Swarovski Crystal Stone Dangle Earring,"[""Jewellery >> Earrings""]",1380.0,966.0,5.0,5.0,Pearl Paradise,0,64,93,Low,0,288,241
+Pearl Paradise Complete Women - (A) Swarovski Crystal Silver Dangle Earring,"[""Jewellery >> Earrings""]",3280.0,1895.0,1.0,1.0,Pearl Paradise,0,182,63,Medium,1,288,241
+"Pearl Paradise Long ""Black Diamond"" Swarovski Crystal Stone Dangle Earring","[""Jewellery >> Earrings""]",1980.0,1386.0,5.0,5.0,Pearl Paradise,0,32,54,Low,0,288,241
+"NEVI Flower Swarovski Crystal, Crystal Alloy, Crystal Pendant","[""Jewellery >> Pendants & Lockets""]",4850.0,2250.0,5.0,5.0,NEVI,0,105,74,Medium,1,293,215
+"NEVI Swarovski Crystal Alloy, Crystal Pendant","[""Jewellery >> Pendants & Lockets""]",4850.0,2250.0,4.2,4.2,NEVI,0,45,98,Low,0,293,215
+"NEVI Swarovski Crystal, Crystal Alloy, Crystal Pendant","[""Jewellery >> Pendants & Lockets""]",2500.0,1200.0,3.3,3.3,NEVI,0,196,57,High,2,293,215
+Suvarnadeep Rose Rhodium Zircon Sterling Silver Pendant,"[""Jewellery >> Pendants & Lockets""]",1550.0,1550.0,3.0,3.0,Suvarnadeep,1,159,90,Low,0,293,326
+"NEVI Butterfly Swarovski Crystal, Crystal Alloy, Crystal Pendant","[""Jewellery >> Pendants & Lockets""]",4200.0,2199.0,5.0,5.0,NEVI,0,195,41,Low,0,293,215
+Xenio GL86 Tempered Glass for Huawei Honor 6,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> Xenio Screen Protectors""]",999.0,180.0,1.0,1.0,Xenio,0,149,3,High,2,349,380
+Neutron HR-06 Tempered Glass for Huawei Honor 6,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> Neutron Screen Protectors""]",799.0,299.0,1.0,1.0,Neutron,0,165,6,Medium,1,344,223
+Molife M-SLTG-HONOR6PLUS Tempered Glass for Huawei Honor 6 Plus,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> Molife Screen Protectors""]",1299.0,199.0,3.7,3.7,Molife,0,161,5,Medium,1,343,206
+APS Premium Scratch Protector GL-HH6 Tempered Glass for Huawei Honor 6,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> APS Screen Protectors""]",799.0,399.0,4.0,4.0,APS,0,145,5,Low,0,340,1
+Yuuup Temp 2.30 Tempered Glass for Huawei Honor 6,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> Yuuup Screen Protectors""]",699.0,129.0,1.0,1.0,Yuuup,0,50,54,High,2,350,384
+PrixCracker Honor6+ Tempered Glass for Huawei Honor 6+,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> PrixCracker Screen Protectors""]",699.0,299.0,5.0,5.0,PrixCracker,0,39,47,Medium,1,346,253
+Vmax SC161 Tempered Glass for Huawei Honor 6,"[""Mobiles & Accessories >> Mobile Accessories >> Screen Protectors >> Vmax Screen Protectors""]",999.0,499.0,5.0,5.0,Vmax,0,138,87,Low,0,348,366
+Merastore Precious and Priceless Rhodium Swarovski Crystal Alloy Pendant,"[""Jewellery >> Pendants & Lockets""]",3130.0,1249.0,4.6,4.6,Merastore,0,86,49,High,2,293,204
+Pilot Ball Pen,"[""Pens & Stationery >> Pens >> Ball Pens >> Pilot Ball Pens""]",995.0,995.0,5.0,5.0,Pilot,0,119,9,Medium,1,366,247
+"Planet Steel, Plastic Dustbin","[""Kitchen & Dining >> Housekeeping & Laundry >> Home Cleaning >> Dustbins >> Planet Dustbins""]",1100.0,890.0,5.0,5.0,Planet,0,51,99,Medium,1,314,249
+"Heena Jewellery Alloy, Brass Jewel Set","[""Jewellery >> Jewellery Sets""]",3294.0,1317.0,5.0,5.0,Heena Jewellery,0,157,20,High,2,289,136
+PXL Men's Solid Formal Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Formal Shirts >> PXL Formal Shirts""]",1900.0,680.0,5.0,5.0,Slim,0,198,61,High,2,60,305
+StylElite Women's Printed Casual Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> StylElite Shirts""]",499.0,270.0,5.0,5.0,Regular,0,14,35,High,2,158,270
+Jeet Boy's Kurta and Pyjama Set,"[""Clothing >> Kids' Clothing >> Boys Wear >> Ethnic Wear >> Ethnic Sets >> Jeet Ethnic Sets >> Jeet Boy's Kurta and Pyjama Set""]",3499.0,1450.0,5.0,5.0,Jeet,0,60,50,High,2,31,159
+Sea Shell Floral pattern CS102,"[""Kitchen & Dining >> Dinnerware & Crockery >> Cups & Saucers >> Sea Shell Cups & Saucers""]",1000.0,599.0,3.0,3.0,Sea Shell,0,34,82,Low,0,313,293
+KazamaKraft Full Sleeve Solid Men's Jacket,"[""Clothing >> Men's Clothing >> Winter & Seasonal Wear >> Jackets >> KazamaKraft Jackets >> KazamaKraft Full Sleeve Solid Men's Jacket""]",8999.0,849.0,2.0,2.0,KazamaKraft,0,113,62,High,2,67,171
+JJC LS - 52  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> JJC Lens Hoods""]",875.0,750.0,3.0,3.0,JJC,0,9,17,Medium,1,28,156
+Omax 67mm Flower  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> Omax Lens Hoods""]",490.0,350.0,2.5,2.5,Omax,0,123,88,Medium,1,29,231
+Bosch 2 608 521 039 Screwdriver Bit Set,"[""Tools & Hardware >> Tools >> Tool Accessories >> Screwdriver Bit Sets""]",375.0,375.0,5.0,5.0,Bosch,1,37,3,Low,0,387,48
+JJC LH 60  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> JJC Lens Hoods""]",999.0,530.0,5.0,5.0,JJC,0,122,32,Medium,1,28,156
+Bosch 2 607 001 513 Extra Hard Screwdriver Bit Set,"[""Tools & Hardware >> Tools >> Tool Accessories >> Screwdriver Bit Sets""]",1038.0,1038.0,5.0,5.0,Bosch,1,69,99,Medium,1,387,48
+JJC LH-78E  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> JJC Lens Hoods""]",725.0,725.0,3.0,3.0,JJC,0,150,13,High,2,28,156
+JJC LS - 55  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> JJC Lens Hoods""]",800.0,699.0,4.0,4.0,JJC,0,181,89,Medium,1,28,156
+Bosch 2 607 001 531 Extra Hard Screwdriver Bit Set,"[""Tools & Hardware >> Tools >> Tool Accessories >> Screwdriver Bit Sets""]",277.0,277.0,5.0,5.0,Bosch,1,15,73,Low,0,387,48
+Bosch 2 608 521 041 Screwdriver Bit Set,"[""Tools & Hardware >> Tools >> Tool Accessories >> Screwdriver Bit Sets""]",374.0,374.0,5.0,5.0,Bosch,1,89,68,High,2,387,48
+JJC LH-74  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> JJC Lens Hoods""]",850.0,850.0,5.0,5.0,JJC,0,30,14,High,2,28,156
+JJC LH-112  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> JJC Lens Hoods""]",1275.0,1225.0,2.5,2.5,JJC,0,67,98,Low,0,28,156
+Omax 58mm Flower  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> Omax Lens Hoods""]",350.0,240.0,2.6,2.6,Omax,0,90,11,High,2,29,231
+Bosch 2 607 001 528 Extra Hard Screwdriver Bit Set,"[""Tools & Hardware >> Tools >> Tool Accessories >> Screwdriver Bit Sets""]",368.0,368.0,4.5,4.5,Bosch,1,63,56,High,2,387,48
+Petshop7 PS7DB0025 L Pet Bed,"[""Furniture >> Pet Furniture""]",2500.0,1999.0,1.0,1.0,Blue,0,31,67,Low,0,245,44
+Bosch 2 607 001 514 Extra Hard Screwdriver Bit Set,"[""Tools & Hardware >> Tools >> Tool Accessories >> Screwdriver Bit Sets""]",2736.0,2736.0,5.0,5.0,Bosch,1,181,92,High,2,387,48
+JJC LH-83F  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> JJC Lens Hoods""]",1100.0,1100.0,4.0,4.0,JJC,0,165,29,Low,0,28,156
+StyBuzz Embroidered Decorative Cushion,"[""Home Furnishing >> Cushions, Pillows & Covers >> Cushions""]",1499.0,398.0,5.0,5.0,StyBuzz,1,102,9,Low,0,279,320
+Bosch 2 608 521 040 Screwdriver Bit Set,"[""Tools & Hardware >> Tools >> Tool Accessories >> Screwdriver Bit Sets""]",653.0,653.0,5.0,5.0,Bosch,1,109,67,Medium,1,387,48
+Bosch 2 608 521 043 Screwdriver Bit Set,"[""Tools & Hardware >> Tools >> Tool Accessories >> Screwdriver Bit Sets""]",846.0,846.0,5.0,5.0,Bosch,1,103,25,Medium,1,387,48
+JJC LH-73B  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> JJC Lens Hoods""]",725.0,525.0,3.7,3.7,JJC,0,133,98,High,2,28,156
+JJC LH-83J  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> JJC Lens Hoods""]",725.0,725.0,1.0,1.0,JJC,0,153,76,High,2,28,156
+DGB Flexi Touch X-11 USB Led Light,"[""Computers >> Laptop Accessories >> USB Gadgets >> DGB USB Gadgets""]",329.0,259.0,5.0,5.0,DGB,0,59,42,Low,0,180,77
+Omax EW-60C for CANON EF-S 18-55mm F/3.5-5.6 Lens  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> Omax Lens Hoods""]",495.0,270.0,5.0,5.0,Omax,0,10,9,High,2,29,231
+Bosch 2 608 521 038 Screwdriver Bit Set,"[""Tools & Hardware >> Tools >> Tool Accessories >> Screwdriver Bit Sets""]",343.0,343.0,5.0,5.0,Bosch,1,99,79,Low,0,387,48
+Canon EW-83J  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> Canon Lens Hoods""]",1895.0,1895.0,1.0,1.0,Canon,0,137,40,Low,0,27,55
+JJC LH-83II  Lens Hood,"[""Cameras & Accessories >> Camera Accessories >> Lens Hoods >> JJC Lens Hoods""]",1199.0,910.0,4.5,4.5,JJC,0,106,25,High,2,28,156
+Bosch 2 607 001 526 Extra Hard Screwdriver Bit Set,"[""Tools & Hardware >> Tools >> Tool Accessories >> Screwdriver Bit Sets""]",433.0,433.0,5.0,5.0,Bosch,1,7,5,Low,0,387,48
+zDelhi.com Car Washer Z1 Ultra High Pressure Washer,"[""Automotive >> Car Accessories >> Car Care >> Car Pressure Washers""]",4499.0,3999.0,5.0,5.0,zDelhi.com,0,185,11,Medium,1,8,396
+Rock Rocket Desktop Charger 6950290687051 USB USB Hub,"[""Computers >> Laptop Accessories >> USB Gadgets >> Rock USB Gadgets""]",3199.0,2999.0,1.0,1.0,Rock,0,27,59,High,2,186,280
+Mydress Mystyle Bulb Led USB Led Light,"[""Computers >> Laptop Accessories >> USB Gadgets >> Mydress Mystyle USB Gadgets""]",999.0,75.0,3.7,3.7,Mydress Mystyle,0,57,98,Medium,1,185,213
+ShadowFax Table Air Fan Cooler USB USB Fan,"[""Computers >> Laptop Accessories >> USB Gadgets >> ShadowFax USB Gadgets""]",1299.0,799.0,2.0,2.0,ShadowFax,0,169,88,High,2,188,295
+Finger's USB Fan Cum Power bank Black New USB USB Fan,"[""Computers >> Laptop Accessories >> USB Gadgets >> Finger's USB Gadgets""]",999.0,849.0,4.0,4.0,Finger's,0,87,79,Low,0,182,119
+DGB Flexi Touch X-11 USB Led Light,"[""Computers >> Laptop Accessories >> USB Gadgets >> DGB USB Gadgets""]",329.0,259.0,5.0,5.0,DGB,0,149,38,High,2,180,77
+Generix HDMI Female To Female Coupler Jointer Adapter Extender Gender Changer gx-hdmi-coupler USB HDMI Connector,"[""Computers >> Laptop Accessories >> USB Gadgets >> Generix USB Gadgets""]",299.0,166.0,5.0,5.0,Generix,0,89,72,Medium,1,183,124
+Mydress Mystyle Bulb Led USB Led Light,"[""Computers >> Laptop Accessories >> USB Gadgets >> Mydress Mystyle USB Gadgets""]",999.0,85.0,3.7,3.7,Mydress Mystyle,0,82,5,Low,0,185,213
+LG DH313OS 5.1 Home Theatre System,"[""Home Entertainment >> Video Players & Accessories >> Home Theaters >> LG Home Theaters""]",8990.0,7900.0,5.0,5.0,LG,0,114,48,High,2,276,175
+"Smiledrive Portable Key Chain Charger IPhone 5, 5s, 5c USB Sync & Charge Cable","[""Computers >> Laptop Accessories >> USB Gadgets >> Smiledrive USB Gadgets""]",899.0,699.0,5.0,5.0,Smiledrive,0,5,90,High,2,189,308
+Anker Uspeed AH401 3.0 4-Port SuperSpeed 68ANHUB-LB4A USB USB Hub,"[""Computers >> Laptop Accessories >> USB Gadgets >> Anker USB Gadgets""]",1660.0,1555.0,4.8,4.8,Anker,0,55,18,High,2,179,17
+DGB Flexi Touch X-11 USB Led Light,"[""Computers >> Laptop Accessories >> USB Gadgets >> DGB USB Gadgets""]",329.0,259.0,5.0,5.0,DGB,0,177,70,Medium,1,180,77
+DreamShop Flex Flexible Portable USB Led Light,"[""Computers >> Laptop Accessories >> USB Gadgets >> DreamShop USB Gadgets""]",599.0,129.0,5.0,5.0,DreamShop,0,8,37,Medium,1,181,95
+DGB Flexi Touch X-11 USB Led Light,"[""Computers >> Laptop Accessories >> USB Gadgets >> DGB USB Gadgets""]",329.0,259.0,5.0,5.0,DGB,0,194,60,High,2,180,77
+"Akshaj Lightweight Flexible Portable Adjustable With 50000 Hours Life For Keyboard Laptop Pc Notebook Power Bank, Book Reading Work Bed USB Led Light","[""Computers >> Laptop Accessories >> USB Gadgets >> Akshaj USB Gadgets""]",399.0,199.0,2.0,2.0,Akshaj,0,197,48,Low,0,178,12
+Shadow Fax Table Air Fan Cooler USB USB Fan,"[""Computers >> Laptop Accessories >> USB Gadgets >> Shadow Fax USB Gadgets""]",1299.0,799.0,2.0,2.0,Shadow Fax,0,117,77,Low,0,187,294
+Mydress Mystyle Bulb Led USB Led Light,"[""Computers >> Laptop Accessories >> USB Gadgets >> Mydress Mystyle USB Gadgets""]",1199.0,149.0,3.7,3.7,Mydress Mystyle,0,36,28,Medium,1,185,213
+Agrima Hub Port A66 USB USB Hub,"[""Computers >> Laptop Accessories >> USB Gadgets >> Agrima USB Gadgets""]",250.0,100.0,3.0,3.0,Agrima,0,38,69,Low,0,177,10
+Kensington 33399EU USB USB Hub,"[""Computers >> Laptop Accessories >> USB Gadgets >> Kensington USB Gadgets""]",699.0,549.0,4.0,4.0,Kensington,0,96,77,Medium,1,184,173
+Redwave 360 Degree Powered Rotation Bluetooth Selfie Stick,"[""Mobiles & Accessories >> Mobile Accessories >> Selfie Sticks >> Redwave Selfie Sticks >> Redwave 360 Degree Powered Rotation Bluetooth Se...""]",3999.0,2999.0,5.0,5.0,Redwave,0,99,81,High,2,351,269
+Sivanna Baking Powder Rouge  Highlighter,"[""Beauty and Personal Care >> Men's Grooming >> Sivanna Men's Grooming >> Sivanna Baking Powder Rouge  Highlighter (Dark p...""]",700.0,399.0,4.3,4.3,Sivanna,0,76,40,Medium,1,24,300
+Leaf Men's Solid Formal Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Formal Shirts >> Leaf Formal Shirts""]",1199.0,449.0,5.0,5.0,Regular,0,43,45,Medium,1,59,270
+Kalrav Men's Solid Formal Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Formal Shirts >> Kalrav Formal Shirts""]",2650.0,650.0,5.0,5.0,Regular,0,158,96,High,2,54,270
+"Jorzzer Roniya Men's Solid Formal, Party, Wedding, Casual, Festive Shirt","[""Clothing >> Men's Clothing >> Shirts >> Formal Shirts >> Jorzzer Roniya Formal Shirts""]",2099.0,799.0,5.0,5.0,Regular,0,166,62,Low,0,53,270
+Kingswood Men's Self Design Formal Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Formal Shirts >> Kingswood Formal Shirts""]",999.0,499.0,1.0,1.0,Slim Fit,0,186,93,Medium,1,56,306
+Kayara Collection Men's Striped Formal Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Formal Shirts >> Kayara Collection Formal Shirts""]",999.0,499.0,5.0,5.0,Regular,0,122,58,Medium,1,55,270
+Kraasa Men's Solid Formal Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Formal Shirts >> Kraasa Formal Shirts""]",1000.0,449.0,4.8,4.8,Regular,0,7,67,High,2,57,270
+Ishin Men's Solid Formal Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Formal Shirts >> Ishin Formal Shirts""]",2099.0,449.0,2.0,2.0,Slim,0,127,56,Low,0,51,305
+LEAF Men's Solid Formal Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Formal Shirts >> LEAF Formal Shirts""]",1199.0,499.0,4.0,4.0,Regular,0,54,40,Medium,1,58,270
+Kraasa Men's Solid Formal Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Formal Shirts >> Kraasa Formal Shirts""]",1000.0,449.0,4.8,4.8,Regular,0,16,98,High,2,57,270
+"Beadworks Acrylic, Alloy Bracelet","[""Jewellery >> Bangles, Bracelets & Armlets >> Bracelets""]",499.0,199.0,5.0,5.0,Beadworks,0,197,40,Medium,1,287,30
+Sheetalworld Microfiber Set of Towels,"[""Home Furnishing >> Bath Linen >> Towels""]",800.0,369.0,4.2,4.2,Sheetalworld,0,58,91,High,2,277,297
+Trident Cotton Set of Towels,"[""Home Furnishing >> Bath Linen >> Towels""]",999.0,999.0,3.5,3.5,Trident,0,137,77,Low,0,277,347
+Mafatlal Cotton Bath Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",735.0,680.0,3.5,3.5,Mafatlal,0,61,33,Low,0,277,194
+Mafatlal Cotton Bath Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",720.0,375.0,1.0,1.0,Mafatlal,0,149,6,Low,0,277,194
+Riana Copper Copper Bangle,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bracelets""]",2499.0,649.0,5.0,5.0,Riana,0,116,88,Low,0,287,277
+BigshopOnline Cotton Bath Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",1850.0,999.0,5.0,5.0,BigshopOnline,0,51,19,Medium,1,277,38
+Intex Happy Animal Chair Assortment Inflatable Air Chair,"[""Baby Care >> Furniture & Furnishings >> Inflatable Products >> Intex Inflatable Products""]",699.0,440.0,3.5,3.5,Intex,0,155,80,Medium,1,21,151
+Trident Cotton Set of Towels,"[""Home Furnishing >> Bath Linen >> Towels""]",599.0,599.0,1.0,1.0,Trident,0,89,40,Low,0,277,347
+Trident Cotton Set of Towels,"[""Home Furnishing >> Bath Linen >> Towels""]",999.0,699.0,5.0,5.0,Trident,0,146,92,Low,0,277,347
+GoldNera Alloy Rose Gold Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",998.0,199.0,3.0,3.0,GoldNera,0,70,97,Low,0,286,127
+Sassoon Cotton Bath Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",1299.0,1299.0,4.0,4.0,Sassoon,0,79,59,Medium,1,277,292
+Mandhania Cotton Bath Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",490.0,280.0,5.0,5.0,Mandhania,0,183,59,Low,0,277,197
+Sassoon Cotton Bath Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",689.0,689.0,5.0,5.0,Sassoon,0,107,48,Low,0,277,292
+Crunchy Fashion Alloy Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",1499.0,599.0,4.0,4.0,Crunchy Fashion,0,170,41,Low,0,286,73
+"Alysa Alloy Pearl Yellow Gold, Rhodium Bracelet Set","[""Jewellery >> Bangles, Bracelets & Armlets >> Bracelets""]",1799.0,499.0,4.0,4.0,Alysa,0,196,13,High,2,287,14
+Trident Cotton Face Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",999.0,583.0,3.0,3.0,Trident,1,42,45,Low,0,277,347
+Intex Kids Inflatable Air Chair,"[""Baby Care >> Furniture & Furnishings >> Inflatable Products >> Intex Inflatable Products""]",699.0,429.0,1.0,1.0,Intex,0,54,89,High,2,21,151
+LukLuck Cotton Bath Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",1299.0,599.0,5.0,5.0,LukLuck,0,102,53,High,2,277,187
+Amber Cotton Hand Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",458.0,207.0,2.0,2.0,Amber,0,86,42,Low,0,277,15
+Crazytowear Metal Bangle Set,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",700.0,365.0,5.0,5.0,Crazytowear,0,34,63,High,2,286,71
+"Alysa Brass, Copper Cubic Zirconia, Emerald 18K Yellow Gold, Rhodium Bangle Set","[""Jewellery >> Bangles, Bracelets & Armlets >> Bangles""]",2499.0,999.0,5.0,5.0,Alysa,0,83,27,Low,0,286,14
+Zobello Leather Bracelet,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bracelets""]",349.0,349.0,3.0,3.0,Zobello,0,95,38,Medium,1,287,388
+Jewels Mountain Sterling Silver Zircon Bracelet,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bracelets""]",2800.0,2150.0,5.0,5.0,Jewels Mountain,0,183,60,Medium,1,287,162
+MB Cotton Set of Towels,"[""Home Furnishing >> Bath Linen >> Towels""]",1495.0,1195.0,3.5,3.5,MB,0,195,7,Medium,1,277,190
+JBG Home Store Cotton Face Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",449.0,249.0,3.0,3.0,JBG Home Store,0,56,5,Medium,1,277,153
+Mandhania Cotton Bath Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",490.0,280.0,5.0,5.0,Mandhania,0,170,45,High,2,277,197
+Soulxpressions Metal Pearl Bracelet,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bracelets""]",1099.0,385.0,5.0,5.0,Soulxpressions,0,83,58,Low,0,287,311
+Zobello Leather Bracelet,"[""Jewellery >> Bangles, Bracelets & Armlets >> Bracelets""]",199.0,199.0,1.0,1.0,Zobello,0,34,31,Low,0,287,388
+Trident Cotton Set of Towels,"[""Home Furnishing >> Bath Linen >> Towels""]",999.0,999.0,3.0,3.0,Trident,0,110,23,Low,0,277,347
+Peora Sanmita Gold Plated Alloy Jewel Set,"[""Jewellery >> Jewellery Sets""]",2700.0,1080.0,1.0,1.0,Peora,0,55,42,Medium,1,289,243
+Bombay Dyeing Cotton Bath Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",549.0,514.0,5.0,5.0,Bombay Dyeing,0,85,10,Medium,1,277,46
+Trident Cotton Bath Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",1199.0,1199.0,4.0,4.0,Trident,0,137,32,Low,0,277,347
+Trident Cotton Bath Towel,"[""Home Furnishing >> Bath Linen >> Towels""]",1199.0,1199.0,3.0,3.0,Trident,0,33,53,Medium,1,277,347
+Raees Wayfarer Sunglasses,"[""Sunglasses >> Raees Wayfarer Sunglasses""]",1199.0,249.0,5.0,5.0,Raees,0,136,30,Low,0,382,264
+Pu-Easy Life Monk Strap,"[""Footwear >> Kids' & Infant Footwear >> For Girls >> School Shoes >> Pu-Easy Life Monk Strap""]",499.0,275.0,3.2,3.2,Pu-Easy Life,0,142,39,Low,0,236,254
+LGRL Women's Leggings,"[""LGRL Women's Leggings""]",999.0,499.0,5.0,5.0,LGRL,0,188,31,Low,0,329,176
+Tara Lifestyle Slim Fit Boy's Jeans,"[""Clothing >> Kids' Clothing >> Boys Wear >> Jeans >> Tara Lifestyle Jeans >> Tara Lifestyle Slim Fit Boy's Jeans""]",899.0,399.0,5.0,5.0,Tara Lifestyle,0,149,82,Low,0,36,336
+Nivia School Lace Up Shoes,"[""Footwear >> Kids' & Infant Footwear >> For Boys >> School Shoes >> Nivia School Lace Up Shoes""]",999.0,949.0,3.4,3.4,Nivia,0,78,2,Low,0,228,227
+ASIAN Walking Shoes,"[""Footwear >> Kids' & Infant Footwear >> For Boys >> School Shoes >> ASIAN Walking Shoes""]",499.0,499.0,5.0,5.0,ASIAN,0,21,78,Low,0,225,3
+Asian Lace Up Shoes,"[""Footwear >> Kids' & Infant Footwear >> For Boys >> School Shoes >> Asian Lace Up Shoes""]",249.0,249.0,4.0,4.0,Asian,0,88,77,Low,0,226,21
+Vijayanti International Shin Guard,"[""Sports & Fitness >> Team Sports >> Hockey >> Guards >> Vijayanti Guards >> Vijayanti International Shin Guard (Assorted)""]",578.0,578.0,5.0,5.0,Vijayanti,1,73,93,Medium,1,381,362
+Pu-Right Tennis-Black School Shoes,"[""Footwear >> Kids' & Infant Footwear >> For Boys >> School Shoes >> Pu-Right Tennis-Black School Shoes""]",299.0,230.0,3.0,3.0,Pu-Right,0,38,12,Low,0,229,256
+BelleGirl Floral Print Baby Girl's Boxer,"[""Clothing >> Kids' Clothing >> Boys Wear >> Innerwear & Sleepwear >> Boxers >> BelleGirl Boxers >> BelleGirl Floral Print Baby Girl's Boxer (Pack o...""]",540.0,316.0,5.0,5.0,BelleGirl,0,10,39,Low,0,33,36
+Rex Monk Strap,"[""Footwear >> Kids' & Infant Footwear >> For Boys >> School Shoes >> Rex Monk Strap""]",408.0,408.0,4.6,4.6,Rex,0,57,66,Medium,1,230,276
+Rex School Shoes,"[""Footwear >> Kids' & Infant Footwear >> For Boys >> School Shoes >> Rex School Shoes""]",391.0,391.0,4.0,4.0,Rex,0,198,96,Medium,1,231,276
+Zebie SPB100096 Solar 12000 MAH Power Bank 12000 mAh,"[""Mobiles & Accessories >> Mobile Accessories >> Power Banks >> Zebie Power Banks >> Zebie SPB100096 Solar 12000 MAH Power Bank 12000...""]",2499.0,1299.0,5.0,5.0,Zebie,0,130,13,Medium,1,337,386
+Clovia Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Clovia Bras >> Clovia Women's Full Coverage Bra""]",549.0,272.0,4.3,4.3,Clovia,0,47,46,Low,0,73,64
+Clovia Women's Full Coverage Bra,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Bras >> Clovia Bras >> Clovia Women's Full Coverage Bra""]",279.0,249.0,4.4,4.4,Clovia,0,119,27,High,2,73,64
+mobiware mw5b mobiware ultra slim 5000mah powerbank 5000 mAh,"[""Mobiles & Accessories >> Mobile Accessories >> Power Banks >> mobiware Power Banks >> mobiware mw5b mobiware ultra slim 5000mah powerb...""]",999.0,499.0,5.0,5.0,mobiware,0,115,17,High,2,339,394
+Skovin Boy School Shoes Lace Up,"[""Footwear >> Kids' & Infant Footwear >> For Boys >> School Shoes >> Skovin Boy School Shoes Lace Up""]",399.0,191.0,5.0,5.0,Skovin,0,155,95,Medium,1,232,303
+mobiware mw4p mobiware 4000 mah pocket powerbank 4000 mAh,"[""Mobiles & Accessories >> Mobile Accessories >> Power Banks >> mobiware Power Banks >> mobiware mw4p mobiware 4000 mah pocket powerbank...""]",1299.0,399.0,5.0,5.0,mobiware,0,187,98,High,2,338,394
+Spycom Wireless 3.5mm Bluetooth Audio Music Receiver with Mic Handsfree Stereo Output Car Kit,"[""Automotive >> Accessories & Spare parts >> Car Electronics & Accessories >> Car Audio & Video >> Car Bluetooth Devices >> Spycom Wireless 3.5mm Bluetooth Audio Music Rece...""]",1200.0,788.0,2.0,2.0,Spycom,0,84,60,Medium,1,4,315
+YNA Checkered Double Quilts & Comforters Red,"[""Home Furnishing >> Bed Linen >> Blankets, Quilts & Dohars""]",2295.0,984.0,4.0,4.0,YNA,0,99,64,Low,0,278,382
+Sophies Shisha Assorted Hookah Flavor,"[""Home Decor & Festive Needs >> Table Decor & Handicrafts >> Table Decor >> Hookah & Hookah Flavours >> Hookah Flavors >> Sophies Hookah Flavors""]",700.0,700.0,5.0,5.0,Sophies,0,122,88,High,2,274,310
+Agaro Beard MT 6014 Trimmer For Men,"[""Health & Personal Care Appliances >> Personal Care Appliances >> Trimmers""]",1395.0,865.0,2.5,2.5,Agaro,1,148,35,Low,0,247,8
+Brite Rechargeable 490 Trimmer For Men,"[""Health & Personal Care Appliances >> Personal Care Appliances >> Trimmers""]",699.0,371.0,2.5,2.5,Brite,0,12,70,High,2,247,51
+Asist Health Care Plain Single Electric Blanket Blue,"[""Home Furnishing >> Bed Linen >> Blankets, Quilts & Dohars""]",1990.0,1475.0,4.7,4.7,Asist Health Care,0,136,83,Low,0,278,22
+Syska Led Lights 5 W LED Bulb,"[""Kitchen & Dining >> Lighting >> Bulbs >> Syska Led Lights Bulbs""]",325.0,150.0,5.0,5.0,Syska Led Lights,0,108,30,High,2,326,331
+Unnati Floral Double Top Sheet Multicolor,"[""Home Furnishing >> Bed Linen >> Blankets, Quilts & Dohars""]",2997.0,999.0,5.0,5.0,Unnati,0,136,71,Low,0,278,354
+Kemei Washable Body Groomer KM-6166 Trimmer For Men,"[""Health & Personal Care Appliances >> Personal Care Appliances >> Trimmers""]",895.0,449.0,4.4,4.4,Kemei,0,188,74,Low,0,247,172
+Mz Nova Most Advanced 2in1 Rechargeable NHC-401 Trimmer For Men,"[""Health & Personal Care Appliances >> Personal Care Appliances >> Trimmers""]",699.0,198.0,1.0,1.0,Mz Nova,0,29,96,High,2,247,214
+Wipro 5 W LED 6500K Cool Day Light Bulb,"[""Kitchen & Dining >> Lighting >> Bulbs >> Wipro Bulbs""]",375.0,265.0,4.2,4.2,Wipro,1,199,98,Low,0,327,375
+Sophies Shisha Assorted Hookah Flavor,"[""Home Decor & Festive Needs >> Table Decor & Handicrafts >> Table Decor >> Hookah & Hookah Flavours >> Hookah Flavors >> Sophies Hookah Flavors""]",1400.0,1400.0,5.0,5.0,Sophies,0,100,63,Low,0,274,310
+Unnati Floral Double Top Sheet Multicolor,"[""Home Furnishing >> Bed Linen >> Blankets, Quilts & Dohars""]",2997.0,999.0,5.0,5.0,Unnati,0,199,28,Low,0,278,354
+Unnati Abstract Single Top Sheet Multicolor,"[""Home Furnishing >> Bed Linen >> Blankets, Quilts & Dohars""]",1797.0,599.0,5.0,5.0,Unnati,0,159,60,High,2,278,354
+SYON Cotton Floral Double Bedsheet,"[""Baby Care >> Baby Bedding >> Baby Bedsheets >> SYON Baby Bedsheets >> SYON Cotton Floral Double Bedsheet (1 BEDSHEET W...""]",999.0,499.0,5.0,5.0,SYON,0,97,79,High,2,14,290
+SYON Cotton Floral Double Bedsheet,"[""Baby Care >> Baby Bedding >> Baby Bedsheets >> SYON Baby Bedsheets >> SYON Cotton Floral Double Bedsheet (2 BEDSHEET W...""]",1699.0,809.0,5.0,5.0,SYON,0,164,94,Low,0,15,290
+SYON Cotton Floral Double Bedsheet,"[""Baby Care >> Baby Bedding >> Baby Bedsheets >> SYON Baby Bedsheets >> SYON Cotton Floral Double Bedsheet (2 BEDSHEET W...""]",1599.0,719.0,5.0,5.0,SYON,0,182,37,Low,0,15,290
+SYON Cotton Floral Double Bedsheet,"[""Baby Care >> Baby Bedding >> Baby Bedsheets >> SYON Baby Bedsheets >> SYON Cotton Floral Double Bedsheet (4 BEDSHEET W...""]",3499.0,1529.0,5.0,5.0,SYON,0,65,93,High,2,16,290
+"Aarti Collections Women's Self Design Casual, Formal Denim Light Blue Shirt","[""Clothing >> Women's Clothing >> Formal Wear >> Shirts >> Aarti Collections Shirts >> Aarti Collections Women's Self Design Casual, Fo...""]",1150.0,569.0,5.0,5.0,Aarti Collections,0,126,22,High,2,70,5
+Maharaja Timer Electric Tandoor,"[""Home & Kitchen >> Kitchen Appliances >> Food Makers >> Maharaja Food Makers >> Maharaja Timer Electric Tandoor (Black)""]",3490.0,2650.0,5.0,5.0,Maharaja,0,55,68,Low,0,251,195
+Deep kitchen press Steel Grater and Slicer,"[""Kitchen & Dining >> Kitchen Tools >> Choppers & Peelers >> Graters & Slicers >> Deep Graters & Slicers >> Deep kitchen press Steel Grater and Slicer (Stee...""]",453.0,259.0,1.5,1.5,Deep,0,151,20,Low,0,316,85
+SAYITLOUD Men's Vest,"[""Clothing >> Men's Clothing >> Inner Wear & Sleep Wear >> Vests >> SAYITLOUD Vests >> SAYITLOUD Men's Vest""]",599.0,299.0,2.3,2.3,SAYITLOUD,0,25,96,Low,0,44,285
+SAYITLOUD Men's Vest,"[""Clothing >> Men's Clothing >> Inner Wear & Sleep Wear >> Vests >> SAYITLOUD Vests >> SAYITLOUD Men's Vest""]",499.0,299.0,3.0,3.0,SAYITLOUD,0,9,68,Medium,1,44,285
+Royal Men's Kurta and Churidar Set,"[""Clothing >> Men's Clothing >> Ethnic Wear >> Sets >> Royal Sets >> Royal Men's Kurta and Churidar Set""]",1999.0,999.0,5.0,5.0,Royal,0,96,91,High,2,43,281
+Elephant Brand 3 Fold Polka Dotted Prints - Manual Open Umbrella,"[""Tools & Hardware >> Tools >> Home Utilities >> Umbrellas >> Elephant Brand Umbrellas >> Elephant Brand 3 Fold Polka Dotted Prints - Manu...""]",499.0,449.0,5.0,5.0,Elephant Brand,0,174,64,Medium,1,386,106
+Cenizas Western Mocassins,"[""Footwear >> Women's Footwear >> Casual Shoes >> Mocassins >> Cenizas Western Mocassins""]",599.0,440.0,1.3,1.3,Cenizas,0,65,17,High,2,241,59
+"NOVA Professional Hair NS216 Trimmer, Clipper, Shaver For Men","[""Health & Personal Care Appliances >> Personal Care Appliances >> Shavers >> NOVA Professional Hair NS216 Trimmer, Clipper, S...""]",1199.0,247.0,3.6,3.6,NOVA,0,26,12,High,2,246,216
+Balaji Velvet Sofa Cover,"[""Home Furnishing >> Living >> Sofa Covers >> Balaji Velvet Sofa Cover (Brown Pack of 6)""]",5199.0,3599.0,5.0,5.0,Balaji,0,153,22,High,2,283,29
+Mast & Harbour Skinny Fit Women's Jeans,"[""Clothing >> Women's Clothing >> Fusion Wear >> Jeans & Shorts >> Jeans >> Mast & Harbour Jeans >> Mast & Harbour Skinny Fit Women's Jeans""]",1899.0,1044.0,5.0,5.0,Mast & Harbour,0,74,17,High,2,71,201
+Blackberrys Solid Single Breasted Casual Men's Blazer,"[""Clothing >> Men's Clothing >> Suits & Blazers >> Blazers >> Blackberrys Blazers >> Blackberrys Solid Single Breasted Casual Men's B...""]",5995.0,5995.0,5.0,5.0,Blackberrys,0,5,10,High,2,63,41
+Clovia Lingerie Set,"[""Clovia Lingerie Set""]",699.0,509.0,4.0,4.0,Clovia,0,137,65,High,2,162,64
+CONVENIENCE vm46 headphone for XIOMI Mi4 and Mi4i Signature vm46 Stereo Wired Headphones,"[""Mobiles & Accessories >> Mobile Accessories >> Headphones >> CONVENIENCE Headphones >> CONVENIENCE vm46 headphone for XIOMI Mi4 and Mi4...""]",399.0,249.0,5.0,5.0,CONVENIENCE,0,16,22,High,2,335,53
+Esteem Boy's Drawer,"[""Clothing >> Kids' Clothing >> Boys Wear >> Innerwear & Sleepwear >> Bloomers & Drawers >> Esteem Bloomers & Drawers >> Esteem Boy's Drawer""]",900.0,399.0,3.2,3.2,Esteem,0,94,90,Medium,1,32,108
+Transcend Premium Memory DDR2 2 GB (1x2GB) PC SDRAM (JM800QLU-2G),"[""Computers >> Computer Components >> RAMs >> Transcend RAMs >> Transcend Premium Memory DDR2 2 GB (1x2GB) PC SD...""]",2999.0,1248.0,4.2,4.2,Transcend,0,50,82,Low,0,168,346
+MUA MAKEUP ACADEMY SWEET SHEEN DUSKY ROSE,"[""Beauty and Personal Care >> Body and Skin Care >> Lip Care >> Lip Balms >> MUA MAKEUP ACADEMY Lip Balms >> MUA MAKEUP ACADEMY SWEET SHEEN DUSKY ROSE (2.8 g)""]",550.0,350.0,5.0,5.0,MUA MAKEUP ACADEMY,0,38,50,Low,0,23,193
+Nova KT 728S Electric Kettle,"[""Home & Kitchen >> Kitchen Appliances >> Electric Jug(heater)/Travel Kettles >> Nova Electric Jug(heater)/Travel Kettles >> Nova KT 728S Electric Kettle (0.5 L)""]",3195.0,699.0,3.6,3.6,Nova,0,181,14,Medium,1,250,229
+Elite Collection Medium Acrylic Sticker,"[""Baby Care >> Baby & Kids Gifts >> Stickers >> Elite Collection Stickers""]",1299.0,999.0,4.0,4.0,Elite Collection,0,82,64,Medium,1,11,107
+Uberlyfe Large Vinyl Sticker,"[""Baby Care >> Baby & Kids Gifts >> Stickers >> Uberlyfe Stickers""]",1190.0,595.0,4.0,4.0,Uberlyfe,0,49,47,Medium,1,12,350

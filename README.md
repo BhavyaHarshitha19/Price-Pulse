@@ -1,70 +1,242 @@
-# Getting Started with Create React App
+# 💡 Price Pulse — AI-Powered Dynamic Pricing Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Price smarter. Sell better. Let the AI do the math.
 
-## Available Scripts
+Price Pulse is a full-stack dynamic pricing platform that uses a trained **Random Forest ML model** to recommend the optimal selling price for any product — based on manufacturing cost, stock levels, demand, rarity, and quantity.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Live Demo Flow
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Open the dashboard → add your product
+2. Click **"Get AI Price"**
+3. The ML model returns a recommended price in under a second
+4. Click **"Apply Price"** → price updates live on the dashboard
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🧠 How the AI Works
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The model was trained on **918 real Flipkart products** using a pricing formula that accounts for:
 
-### `npm run build`
+| Factor | Effect on Price |
+|---|---|
+| High demand | ↑ Price goes up (up to +40%) |
+| High rarity | ↑ Price goes up (up to +25%) |
+| High stock | ↓ Price goes down (up to -12%) |
+| Manufacturing cost | Base anchor for all pricing |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Algorithm:** Random Forest Regressor (200 trees)
+**Accuracy:** R² = 98.7% on test set
+**Prediction time:** < 1 second
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🏗️ Architecture
 
-### `npm run eject`
+```
+price-pulse/
+├── backend/
+│   ├── app.py               Flask REST API
+│   ├── price_model.pkl      Trained Random Forest model
+│   └── requirements.txt     Python dependencies
+│
+├── src/
+│   ├── pages/
+│   │   ├── Home.jsx         Landing page
+│   │   ├── Login.jsx        Auth page (demo)
+│   │   ├── Dashboard.jsx    Product management + live prices
+│   │   └── Pricing.jsx      AI price recommendation form
+│   ├── services/
+│   │   └── api.js           Frontend → Backend API calls
+│   └── assets/
+│       └── pulse-logo.png
+│
+├── data/
+│   ├── flipkart_com-ecommerce_sample.csv   Raw dataset
+│   └── flipkart_modified.csv              Cleaned dataset
+│
+└── train_model.py           Model training script
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠️ Tech Stack
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+| Layer | Technology |
+|---|---|
+| Frontend | React 19, React Router v7, Tailwind CSS, Recharts |
+| Backend | Python, Flask, Flask-CORS |
+| ML Model | scikit-learn (Random Forest Regressor) |
+| Data Processing | pandas, NumPy |
+| State / Storage | Browser localStorage (no database needed) |
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## ⚙️ Getting Started
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Prerequisites
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Node.js 18+
+- Python 3.9+
+- pip
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 1. Clone the repo
 
-### Analyzing the Bundle Size
+```bash
+git clone https://github.com/your-username/price-pulse.git
+cd price-pulse
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+### 2. Start the Flask backend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+cd backend
+pip install -r requirements.txt
+python app.py
+```
 
-### Advanced Configuration
+Backend runs at → `http://localhost:5000`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+> The trained model (`price_model.pkl`) is already included. Skip to step 3.
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### 3. Start the React frontend
 
-### `npm run build` fails to minify
+```bash
+# From the price-pulse root directory
+npm install
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Frontend runs at → `http://localhost:3000`
+
+---
+
+### 4. (Optional) Retrain the model
+
+If you want to retrain from scratch:
+
+```bash
+# From the price-pulse root directory
+python train_model.py
+```
+
+This reads `data/flipkart_modified.csv`, trains the model, and saves it to `backend/price_model.pkl`.
+
+---
+
+## 🔌 API Reference
+
+### `POST /predict`
+
+Returns an AI-recommended price based on product parameters.
+
+**Request body:**
+```json
+{
+  "manufacturing_cost": 800,
+  "stock": 50,
+  "quantity": 30,
+  "rarity": "medium",
+  "demand": "high"
+}
+```
+
+**Response:**
+```json
+{
+  "recommended_price": 1124.50,
+  "breakdown": {
+    "manufacturing_cost": 800,
+    "stock_norm": 25.0,
+    "qty_norm": 15.0,
+    "rarity_score": 50,
+    "demand_score": 100
+  }
+}
+```
+
+**Rarity values:** `"low"` | `"medium"` | `"high"`
+**Demand values:** `"low"` | `"medium"` | `"high"`
+
+---
+
+### `GET /health`
+
+```json
+{ "status": "ok" }
+```
+
+---
+
+## 📱 Pages
+
+| Page | Route | Description |
+|---|---|---|
+| Home | `/` | Landing page with features, stats, and CTA |
+| Login | `/login` | Demo authentication |
+| Dashboard | `/dashboard` | Product catalog with AI prices and stats |
+| Pricing | `/pricing` | Input parameters and get price recommendation |
+
+---
+
+## 📊 ML Model Details
+
+```
+Algorithm     : Random Forest Regressor
+Trees         : 200
+Dataset       : 918 Flipkart products
+Train/Test    : 80% / 20% split
+R² Accuracy   : 98.7%
+Features      : manufacturing_cost, stock_norm, qty_norm, rarity_score, demand_score
+Target        : Optimal selling price
+```
+
+**Feature engineering highlights:**
+- `manufacturing_cost` — simulated as 55–75% of retail price
+- `demand_score` — derived from product ratings (0–5 → 0/50/100)
+- `rarity_score` — encoded from rarity category (0/50/100)
+- `stock_norm` / `qty_norm` — normalised to 0–100 scale
+
+---
+
+## 📁 Dataset
+
+The model was trained on a modified version of the [Flipkart E-Commerce Dataset](https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products) with additional engineered columns:
+
+- `Stock_Level` — inventory quantity
+- `Quantity` — units sold
+- `Rarity_Encoded` — product rarity (0, 1, 2)
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] User authentication with JWT
+- [ ] PostgreSQL database for persistent product storage
+- [ ] Pricing history charts per product
+- [ ] Bulk CSV product import
+- [ ] Price sensitivity analysis view
+- [ ] Deploy to cloud (Render / Vercel)
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to change.
+
+---
+
+## 📄 License
+
+[MIT](LICENSE)
+
+---
+
+> Built with React + Flask + Random Forest ML · © 2025 Price Pulse
